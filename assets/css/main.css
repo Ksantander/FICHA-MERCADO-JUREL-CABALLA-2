@@ -2,9 +2,9 @@
    FICHA DE MERCADO · JUREL Y CABALLA — Dashboard UCN ECIEM
    Sistema visual: carta náutica de comercio exterior.
    ============================================================ */
-
+ 
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
-
+ 
 :root{
   /* Color: carta náutica + comprobante de aduana */
   --deep-sea:     #0C2D48;   /* azul profundo, fondo principal */
@@ -20,15 +20,15 @@
   --ink-soft:     #4B5A63;
   --line:         rgba(20,32,43,0.14);
   --line-on-dark: rgba(243,238,226,0.16);
-
+ 
   --font-display: 'Fraunces', serif;
   --font-body:    'IBM Plex Sans', sans-serif;
   --font-mono:    'IBM Plex Mono', monospace;
-
+ 
   --radius: 2px;
   --container: 1180px;
 }
-
+ 
 *{ box-sizing: border-box; }
 html{ scroll-behavior: smooth; }
 body{
@@ -41,16 +41,16 @@ body{
 img{ max-width:100%; display:block; }
 a{ color:inherit; text-decoration:none; }
 button{ font-family: inherit; cursor:pointer; }
-
+ 
 .mono{ font-family: var(--font-mono); }
-
+ 
 /* ---------- Layout helpers ---------- */
 .wrap{
   max-width: var(--container);
   margin: 0 auto;
   padding: 0 28px;
 }
-
+ 
 /* ---------- Top bar (coordinate strip) ---------- */
 .coord-strip{
   background: var(--deep-sea);
@@ -62,7 +62,7 @@ button{ font-family: inherit; cursor:pointer; }
   border-bottom: 1px solid var(--line-on-dark);
 }
 .coord-strip .wrap{ display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px; opacity:0.78; }
-
+ 
 /* ---------- Header / nav ---------- */
 .site-header{
   background: var(--deep-sea);
@@ -102,7 +102,7 @@ button{ font-family: inherit; cursor:pointer; }
   display:flex;
   align-items:center;
   justify-content:center;
-  background: var(--paper);
+  background: #FFFFFF;
   border-radius: var(--radius);
   padding: 4px;
   width: 58px;
@@ -156,13 +156,13 @@ button{ font-family: inherit; cursor:pointer; }
   border-color: var(--gold);
   color: var(--gold);
 }
-
+ 
 @media (max-width: 560px){
   .brand-logo{ height: 28px; }
   .brand-mark{ font-size: 18px; }
   .funder-chip{ width: 44px; height: 34px; padding: 3px; }
 }
-
+ 
 /* ---------- Breadcrumb ---------- */
 .breadcrumb{
   font-family: var(--font-mono);
@@ -174,7 +174,7 @@ button{ font-family: inherit; cursor:pointer; }
 .breadcrumb a{ color: var(--chart-line); border-bottom: 1px dotted var(--chart-line); }
 .breadcrumb a:hover{ color: var(--gold-deep); }
 .breadcrumb .sep{ margin: 0 6px; opacity:.5; }
-
+ 
 /* ---------- Hero (home) ---------- */
 .hero{
   background: var(--deep-sea);
@@ -241,7 +241,7 @@ button{ font-family: inherit; cursor:pointer; }
   margin-top:4px;
   line-height:1.3;
 }
-
+ 
 /* ---------- Sections ---------- */
 .section{ padding: 56px 0; }
 .section-head{
@@ -266,14 +266,14 @@ button{ font-family: inherit; cursor:pointer; }
   color: var(--ink-soft);
   letter-spacing:0.03em;
 }
-
+ 
 .ports-grid{
   display:grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 14px;
 }
 @media (max-width: 980px){ .ports-grid{ grid-template-columns: repeat(2, 1fr); } }
-
+ 
 .port-card{
   background: #fff;
   border:1px solid var(--line);
@@ -308,7 +308,7 @@ button{ font-family: inherit; cursor:pointer; }
   font-family: var(--font-mono); font-size: 11px; color: var(--paper-dim); background:var(--teal);
   padding:2px 7px; border-radius: 20px;
 }
-
+ 
 /* ---------- Country grid ---------- */
 .filters{
   display:flex; gap:8px; flex-wrap:wrap; margin-bottom:22px;
@@ -333,7 +333,7 @@ button{ font-family: inherit; cursor:pointer; }
   border-radius: 20px;
 }
 .chip.active{ background: var(--teal); color:#fff; border-color: var(--teal); }
-
+ 
 .country-grid{
   display:grid;
   grid-template-columns: repeat(4, 1fr);
@@ -341,7 +341,7 @@ button{ font-family: inherit; cursor:pointer; }
 }
 @media (max-width: 980px){ .country-grid{ grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 560px){ .country-grid{ grid-template-columns: 1fr; } }
-
+ 
 .country-card{
   background:#fff;
   border:1px solid var(--line);
@@ -372,7 +372,7 @@ button{ font-family: inherit; cursor:pointer; }
 }
 .badge.jurel{ background: rgba(212,165,61,0.18); color: var(--gold-deep); }
 .badge.caballa{ background: rgba(26,77,77,0.14); color: var(--teal); }
-
+ 
 /* ---------- Country detail ---------- */
 .country-hero{
   background: var(--deep-sea);
@@ -403,7 +403,7 @@ button{ font-family: inherit; cursor:pointer; }
 .country-kpis .k{ background: var(--deep-sea); padding: 14px 14px 12px; }
 .country-kpis .k .num{ font-family: var(--font-mono); font-size:19px; color: var(--gold); font-weight:600; }
 .country-kpis .k .lbl{ font-size:11px; color: rgba(243,238,226,0.65); margin-top:3px; }
-
+ 
 .product-tabs{
   display:flex; gap:8px; margin: 22px 0 0;
 }
@@ -418,7 +418,7 @@ button{ font-family: inherit; cursor:pointer; }
   text-transform:uppercase;
 }
 .product-tabs button.active{ background: var(--gold); color: var(--deep-sea); border-color:var(--gold); font-weight:600; }
-
+ 
 .data-panels{
   display:grid;
   grid-template-columns: repeat(4, 1fr);
@@ -427,7 +427,7 @@ button{ font-family: inherit; cursor:pointer; }
 }
 @media (max-width: 980px){ .data-panels{ grid-template-columns: repeat(2,1fr); } }
 @media (max-width: 560px){ .data-panels{ grid-template-columns: 1fr; } }
-
+ 
 .panel{
   background:#fff;
   border: 1px solid var(--line);
@@ -456,7 +456,7 @@ button{ font-family: inherit; cursor:pointer; }
 .panel .row .val{ font-family: var(--font-mono); font-weight:600; text-align:right; }
 .panel .row .val.coral{ color: var(--coral); }
 .panel .row .val.gold{ color: var(--gold-deep); }
-
+ 
 .calibre-table{ width:100%; font-size:12.5px; border-collapse:collapse; }
 .calibre-table th{
   font-family: var(--font-mono); font-size:10px; text-transform:uppercase;
@@ -467,7 +467,7 @@ button{ font-family: inherit; cursor:pointer; }
 .calibre-table td{ padding: 5px 0; text-align:right; font-family: var(--font-mono); }
 .calibre-table td:first-child{ text-align:left; font-family: var(--font-body); }
 .calibre-table tr:not(:last-child) td{ border-bottom: 1px dotted var(--line); }
-
+ 
 .figure-block{
   margin: 26px 0;
   border: 1px solid var(--line);
@@ -484,7 +484,7 @@ button{ font-family: inherit; cursor:pointer; }
 }
 .figure-block img{ width:100%; cursor: zoom-in; }
 .figure-block .cap a{ color: var(--chart-line); }
-
+ 
 .note-box{
   border-left: 3px solid var(--gold);
   background: rgba(212,165,61,0.08);
@@ -493,7 +493,7 @@ button{ font-family: inherit; cursor:pointer; }
   color: var(--ink-soft);
   margin: 18px 0;
 }
-
+ 
 /* ---------- Footer ---------- */
 .site-footer{
   background: var(--deep-sea);
@@ -505,12 +505,9 @@ button{ font-family: inherit; cursor:pointer; }
 .site-footer .wrap{ display:flex; justify-content:space-between; flex-wrap:wrap; gap:10px; }
 .footer-inner{ align-items:center; gap:20px; }
 .footer-logo{
-  height: 40px;
+  height: 44px;
   width:auto;
   display:block;
-  background: var(--paper);
-  padding: 6px 12px;
-  border-radius: var(--radius);
 }
 .footer-text{
   display:flex;
@@ -519,7 +516,7 @@ button{ font-family: inherit; cursor:pointer; }
   flex:1;
   min-width:260px;
 }
-
+ 
 /* ---------- Misc ---------- */
 .btn-back{
   font-family: var(--font-mono);
@@ -535,7 +532,7 @@ button{ font-family: inherit; cursor:pointer; }
   gap:6px;
 }
 .btn-back:hover{ border-color: var(--gold); color: var(--gold); }
-
+ 
 .empty-state{
   font-family: var(--font-mono);
   color: var(--ink-soft);
@@ -543,7 +540,7 @@ button{ font-family: inherit; cursor:pointer; }
   padding: 40px 0;
   text-align:center;
 }
-
+ 
 .lightbox{
   position:fixed; inset:0; background:rgba(12,18,24,0.92);
   display:none; align-items:center; justify-content:center; z-index:200;
@@ -555,14 +552,15 @@ button{ font-family: inherit; cursor:pointer; }
   position:absolute; top:18px; right:24px; color:#fff; font-family: var(--font-mono);
   font-size:13px; border:1px solid rgba(255,255,255,0.3); padding:7px 13px; background:transparent;
 }
-
+ 
 .skip-link:focus{
   position:fixed; top:8px; left:8px; background:var(--gold); color:var(--deep-sea);
   padding:8px 12px; z-index:300; font-family: var(--font-mono); font-size:12px;
 }
-
+ 
 @media (prefers-reduced-motion: reduce){
   *{ animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
 }
-
+ 
 :focus-visible{ outline: 2px solid var(--gold); outline-offset: 2px; }
+ 
