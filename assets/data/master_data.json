@@ -1,0 +1,5738 @@
+{
+  "meta": {
+    "titulo": "Ficha de Mercado · Jurel y Caballa Congelados",
+    "proyecto": "Proyecto PDT 25PDT-308340 · UCN Ciencias Empresariales",
+    "periodo": "2016-2025",
+    "fuente": "UN Comtrade · Banco Mundial · FAO FishStat · Aduana Chile · MacMap ITC · Elaboración propia UCN ECIEM",
+    "n_paises": 70,
+    "n_continentes": 5,
+    "img_resumen_ejecutivo": "page-002.webp",
+    "img_recomendaciones": "page-003.webp",
+    "img_analisis_competencia": [
+      "page-121.webp",
+      "page-122.webp"
+    ],
+    "img_contenido": "page-001.webp"
+  },
+  "panorama_mundial": {
+    "jurel": {
+      "hs": "030355",
+      "exp_mundo_fob": "USD 1.17B",
+      "volumen_mundo": "975.7M ton.",
+      "chile_fob": "USD 366M",
+      "chile_volumen": "357.4M ton.",
+      "chile_pct_valor": "31.4%",
+      "chile_pct_volumen": "36.6%",
+      "n_exportadores": "57 países",
+      "ranking_chile": "#1 de 57 países",
+      "var_mercado_2016_2024": "+116.8%",
+      "top6_exportadores": [
+        [
+          "Chile",
+          "24.3%"
+        ],
+        [
+          "Namibia",
+          "22.1%"
+        ],
+        [
+          "Países Bajos",
+          "9.3%"
+        ],
+        [
+          "Nueva Zelanda",
+          "5.5%"
+        ],
+        [
+          "Perú",
+          "4.8%"
+        ],
+        [
+          "Mauritania",
+          "4.8%"
+        ]
+      ],
+      "top5_destinos_chile_2025": [
+        [
+          "Côte d'Ivoire",
+          "USD 140.7M",
+          "38%"
+        ],
+        [
+          "Nigeria",
+          "USD 114.3M",
+          "31%"
+        ],
+        [
+          "Burkina Faso",
+          "USD 58.5M",
+          "16%"
+        ],
+        [
+          "Camerún",
+          "USD 39.3M",
+          "11%"
+        ],
+        [
+          "Ghana",
+          "USD 21.1M",
+          "6%"
+        ]
+      ],
+      "img": "page-004.webp"
+    },
+    "caballa": {
+      "hs": "030354",
+      "exp_mundo_fob": "USD 2.29B",
+      "volumen_mundo": "1343.6M ton.",
+      "chile_fob": "USD 4M",
+      "chile_volumen": "3.1M ton.",
+      "chile_pct_valor": "0.2%",
+      "chile_pct_volumen": "0.2%",
+      "n_exportadores": "76 países",
+      "ranking_chile": "#27 de 76 países",
+      "var_mercado_2016_2024": "+14.0%",
+      "top6_exportadores": [
+        [
+          "Noruega",
+          "24.8%"
+        ],
+        [
+          "China",
+          "21.1%"
+        ],
+        [
+          "Japón",
+          "7.6%"
+        ],
+        [
+          "Países Bajos",
+          "7.2%"
+        ],
+        [
+          "Reino Unido",
+          "5.0%"
+        ],
+        [
+          "Islandia",
+          "4.3%"
+        ]
+      ],
+      "top5_destinos_chile_2025": [
+        [
+          "Rusia",
+          "USD 3.7M",
+          "46%"
+        ],
+        [
+          "Perú",
+          "USD 2.3M",
+          "29%"
+        ],
+        [
+          "Vietnam",
+          "USD 892.2K",
+          "11%"
+        ],
+        [
+          "Ucrania",
+          "USD 673.1K",
+          "9%"
+        ],
+        [
+          "Brasil",
+          "USD 356.8K",
+          "5%"
+        ]
+      ],
+      "img": "page-005.webp"
+    }
+  },
+  "continentes": {
+    "Africa": {
+      "pagina_resumen": [
+        6,
+        7
+      ],
+      "paises_panel": 25,
+      "compraron_a_chile": 25,
+      "principal_comprador": "Nigeria",
+      "producto_mas_exportado": "Jurel congelado (HS 030355)",
+      "precio_prom_ponderado": "USD 0.94/kg",
+      "imp_total_mundo_cif": "USD 223.5M",
+      "exp_chile_continente": "USD 392.4M",
+      "part_en_exp_chile": "87.6%",
+      "pbi_per_capita_prom": "USD 2,286",
+      "cons_pescado_pc_prom": "14.8 kg/año",
+      "cons_pelagicos_pc_prom": "6.9 kg/año",
+      "top5_compradores": [
+        "Côte d'Ivoire",
+        "Nigeria",
+        "Burkina Faso",
+        "Camerún",
+        "Ghana"
+      ],
+      "jurel": {
+        "paises_compradores": 25,
+        "principal_comprador": "Nigeria",
+        "precio_prom_pond": "USD 0.94/kg",
+        "exp_chile": "USD 391.8M",
+        "part_exp_chile": "87.5%"
+      },
+      "caballa": {
+        "paises_compradores": 9,
+        "principal_comprador": "Nigeria",
+        "precio_prom_pond": "USD 0.93/kg",
+        "exp_chile": "USD 574.3K",
+        "part_exp_chile": "0.1%"
+      },
+      "imgs": [
+        "page-006.webp",
+        "page-007.webp"
+      ]
+    },
+    "America": {
+      "pagina_resumen": [
+        42,
+        43
+      ],
+      "paises_panel": 12,
+      "compraron_a_chile": 12,
+      "principal_comprador": "Perú",
+      "producto_mas_exportado": "Jurel congelado (HS 030355)",
+      "precio_prom_ponderado": "USD 1.04/kg",
+      "imp_total_mundo_cif": "USD 55.4M",
+      "exp_chile_continente": "USD 21.1M",
+      "part_en_exp_chile": "4.7%",
+      "pbi_per_capita_prom": "USD 19,131",
+      "cons_pescado_pc_prom": "11.9 kg/año",
+      "cons_pelagicos_pc_prom": "4.3 kg/año",
+      "top5_compradores": [],
+      "imgs": [
+        "page-042.webp",
+        "page-043.webp"
+      ]
+    },
+    "Asia": {
+      "pagina_resumen": [
+        64,
+        65
+      ],
+      "paises_panel": 12,
+      "compraron_a_chile": 12,
+      "principal_comprador": "Vietnam",
+      "producto_mas_exportado": "Jurel congelado (HS 030355)",
+      "precio_prom_ponderado": "USD 1.11/kg",
+      "imp_total_mundo_cif": "USD 446.9M",
+      "exp_chile_continente": "USD 18.9M",
+      "part_en_exp_chile": "4.2%",
+      "pbi_per_capita_prom": "USD 20,880",
+      "cons_pescado_pc_prom": "33.0 kg/año",
+      "cons_pelagicos_pc_prom": "6.2 kg/año",
+      "top5_compradores": [],
+      "imgs": [
+        "page-064.webp",
+        "page-065.webp"
+      ]
+    },
+    "Europa": {
+      "pagina_resumen": [
+        84,
+        85
+      ],
+      "paises_panel": 21,
+      "compraron_a_chile": 20,
+      "principal_comprador": "Ucrania",
+      "producto_mas_exportado": "Jurel congelado (HS 030355)",
+      "precio_prom_ponderado": "USD 1.16/kg",
+      "imp_total_mundo_cif": "USD 461.9M",
+      "exp_chile_continente": "USD 15.5M",
+      "part_en_exp_chile": "3.5%",
+      "pbi_per_capita_prom": "USD 39,231",
+      "cons_pescado_pc_prom": "24.8 kg/año",
+      "cons_pelagicos_pc_prom": "6.3 kg/año",
+      "top5_compradores": [],
+      "imgs": [
+        "page-084.webp",
+        "page-085.webp"
+      ]
+    },
+    "Oceania": {
+      "pagina_resumen": [
+        118,
+        119
+      ],
+      "paises_panel": 1,
+      "compraron_a_chile": 1,
+      "principal_comprador": "Nueva Zelanda",
+      "producto_mas_exportado": "Jurel congelado (HS 030355)",
+      "precio_prom_ponderado": "USD 0.83/kg",
+      "imp_total_mundo_cif": "USD 480.4K",
+      "exp_chile_continente": "USD 0",
+      "part_en_exp_chile": "0.0%",
+      "pbi_per_capita_prom": "USD 41,998",
+      "cons_pescado_pc_prom": "25.6 kg/año",
+      "cons_pelagicos_pc_prom": "5.8 kg/año",
+      "top5_compradores": [],
+      "imgs": [
+        "page-118.webp",
+        "page-119.webp"
+      ]
+    }
+  },
+  "paises": {
+    "Angola": {
+      "pais": "Angola",
+      "continente": "Africa",
+      "region": "Africa Austral",
+      "poblacion": "37.9 M hab.",
+      "pbi": "USD 101.0B",
+      "pbi_per_capita": "USD 2,666",
+      "cons_pescado_pc": "14.2 kg/año",
+      "cons_pelagicos_pc": "9.1 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 3.8M",
+          "volumen_importado": "3.2M kg",
+          "precio_prom_importacion": "USD 3.67/kg",
+          "precio_a_chile_rango": "USD 0.81-1.10/kg",
+          "exp_chile_pais_fob": "USD 1.0M",
+          "volumen_exportado": "1.1M kg",
+          "precio_pagado_a_chile": "USD 0.97/kg",
+          "part_en_exp_chilenas": "0.2%",
+          "cagr_5anios_exp": "+27.8% a.a.",
+          "arancel_mfn": "20%",
+          "efectivo_chile": "20%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (52% FOB, 4 env.)",
+          "ntm_anio": "2025",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.89",
+              "min": "0.82",
+              "max": "1.05"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.29",
+              "min": "1.29",
+              "max": "1.29"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.87",
+              "min": "0.80",
+              "max": "0.95"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "38%",
+            "500-900": "35%",
+            "900+": "28%"
+          },
+          "pagina": 8,
+          "img": "page-008.webp"
+        }
+      },
+      "slug": "angola"
+    },
+    "Benin": {
+      "pais": "Benin",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "14.5 M hab.",
+      "pbi": "USD 21.5B",
+      "pbi_per_capita": "USD 1,485",
+      "cons_pescado_pc": "16.0 kg/año",
+      "cons_pelagicos_pc": "10.3 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 10.1M",
+          "volumen_importado": "12.8M kg",
+          "precio_prom_importacion": "USD 0.95/kg",
+          "precio_a_chile_rango": "USD 0.46-0.81/kg",
+          "exp_chile_pais_fob": "USD 6.0K",
+          "volumen_exportado": "13.0K kg",
+          "precio_pagado_a_chile": "USD 0.46/kg",
+          "part_en_exp_chilenas": "1.4%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2014",
+          "ntm_registradas": "26",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.88",
+              "min": "0.84",
+              "max": "0.95"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.99",
+              "min": "0.99",
+              "max": "0.99"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "86%",
+            "500-900": "14%"
+          },
+          "pagina": 9,
+          "img": "page-009.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 53.5M",
+          "volumen_importado": "65.7M kg",
+          "precio_prom_importacion": "USD 0.94/kg",
+          "precio_a_chile_rango": "USD 0.80-1.09/kg",
+          "exp_chile_pais_fob": "USD 171.2K",
+          "volumen_exportado": "184.9K kg",
+          "precio_pagado_a_chile": "USD 0.93/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "-25.2% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (74% FOB, 1 env.)",
+          "ntm_anio": "2014",
+          "ntm_registradas": "26",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.88",
+              "min": "0.84",
+              "max": "0.95"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.99",
+              "min": "0.99",
+              "max": "0.99"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "86%",
+            "500-900": "14%"
+          },
+          "pagina": 10,
+          "img": "page-010.webp"
+        }
+      },
+      "slug": "benin"
+    },
+    "Burkina Faso": {
+      "pais": "Burkina Faso",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "23.5 M hab.",
+      "pbi": "USD 23.1B",
+      "pbi_per_capita": "USD 982",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 45.5M",
+          "volumen_importado": "142.0M kg",
+          "precio_prom_importacion": "USD 0.18/kg",
+          "precio_a_chile_rango": "USD 0.78-0.78/kg",
+          "exp_chile_pais_fob": "USD 10.9K",
+          "volumen_exportado": "14.0K kg",
+          "precio_pagado_a_chile": "USD 0.78/kg2",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (100%, 1 env.)",
+          "ntm_anio": "2012",
+          "ntm_registradas": "4",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.90",
+              "min": "0.80",
+              "max": "1.02"
+            },
+            "400-600g": {
+              "prom": "0.92",
+              "min": "0.66",
+              "max": "1.35"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.12",
+              "min": "0.78",
+              "max": "1.40"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.91",
+              "min": "0.80",
+              "max": "1.30"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "42%",
+            "200-400": "30%",
+            "400-600": "21%",
+            "500-900": "7%"
+          },
+          "pagina": 11,
+          "img": "page-011.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 30.1K",
+          "volumen_importado": "95.5K kg",
+          "precio_prom_importacion": "USD 0.42/kg",
+          "precio_a_chile_rango": "USD 0.78-1.03/kg",
+          "exp_chile_pais_fob": "USD 58.5M",
+          "volumen_exportado": "56.9M kg",
+          "precio_pagado_a_chile": "USD 1.03/kg2",
+          "part_en_exp_chilenas": "13.3%",
+          "cagr_5anios_exp": "+47.8% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (91% FOB, 23 env.)",
+          "ntm_anio": "2012",
+          "ntm_registradas": "4",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.90",
+              "min": "0.80",
+              "max": "1.02"
+            },
+            "400-600g": {
+              "prom": "0.92",
+              "min": "0.66",
+              "max": "1.35"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.12",
+              "min": "0.78",
+              "max": "1.40"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.91",
+              "min": "0.80",
+              "max": "1.30"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "42%",
+            "200-400": "30%",
+            "400-600": "21%",
+            "500-900": "7%"
+          },
+          "pagina": 12,
+          "img": "page-012.webp"
+        }
+      },
+      "slug": "burkina-faso"
+    },
+    "Camerún": {
+      "pais": "Camerún",
+      "continente": "Africa",
+      "region": "Africa Central",
+      "poblacion": "29.1 M hab.",
+      "pbi": "USD 53.3B",
+      "pbi_per_capita": "USD 1,830",
+      "cons_pescado_pc": "19.5 kg/año",
+      "cons_pelagicos_pc": "8.4 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 2.6M",
+          "volumen_importado": "2.1M kg",
+          "precio_prom_importacion": "USD 1.07/kg",
+          "precio_a_chile_rango": "USD 0.79-0.79/kg",
+          "exp_chile_pais_fob": "USD 21.3K",
+          "volumen_exportado": "27.0K kg",
+          "precio_pagado_a_chile": "USD 0.79/kg",
+          "part_en_exp_chilenas": "0.6%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "20%",
+          "efectivo_chile": "20%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2022",
+          "ntm_registradas": "38",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.87",
+              "min": "0.80",
+              "max": "1.00"
+            },
+            "400-600g": {
+              "prom": "1.30",
+              "min": "1.30",
+              "max": "1.30"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.02",
+              "min": "0.80",
+              "max": "1.25"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.92",
+              "min": "0.80",
+              "max": "1.32"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "37%",
+            "900+": "35%",
+            "500-900": "28%",
+            "400-600": "0%"
+          },
+          "pagina": 13,
+          "img": "page-013.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 117.9M",
+          "volumen_importado": "79.8M kg",
+          "precio_prom_importacion": "USD 1.63/kg",
+          "precio_a_chile_rango": "USD 0.78-1.04/kg",
+          "exp_chile_pais_fob": "USD 39.3M",
+          "volumen_exportado": "44.3M kg",
+          "precio_pagado_a_chile": "USD 0.89/kg",
+          "part_en_exp_chilenas": "9.0%",
+          "cagr_5anios_exp": "+47.6% a.a.",
+          "arancel_mfn": "20%",
+          "efectivo_chile": "20%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Talcahuano (77% FOB, 9 env.)",
+          "ntm_anio": "2022",
+          "ntm_registradas": "38",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.87",
+              "min": "0.80",
+              "max": "1.00"
+            },
+            "400-600g": {
+              "prom": "1.30",
+              "min": "1.30",
+              "max": "1.30"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.02",
+              "min": "0.80",
+              "max": "1.25"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.92",
+              "min": "0.80",
+              "max": "1.32"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "37%",
+            "900+": "35%",
+            "500-900": "28%",
+            "400-600": "0%"
+          },
+          "pagina": 14,
+          "img": "page-014.webp"
+        }
+      },
+      "slug": "camerun"
+    },
+    "Rep. Centroafricana": {
+      "pais": "Rep. Centroafricana",
+      "continente": "Africa",
+      "region": "Africa Central",
+      "poblacion": "5.3 M hab.",
+      "pbi": "USD 2.8B",
+      "pbi_per_capita": "USD 516",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 69.8K",
+          "volumen_importado": "221.2K kg",
+          "precio_prom_importacion": "USD 0.51/kg",
+          "precio_a_chile_rango": "USD 0.85-0.85/kg",
+          "exp_chile_pais_fob": "USD 44.2K",
+          "volumen_exportado": "52.0K kg",
+          "precio_pagado_a_chile": "USD 0.85/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "20%",
+          "efectivo_chile": "20%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (100%, 1 env.)",
+          "ntm_anio": "2024",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.85",
+              "min": "0.85",
+              "max": "0.85"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "100%"
+          },
+          "pagina": 15,
+          "img": "page-015.webp"
+        }
+      },
+      "slug": "rep-centroafricana"
+    },
+    "Comoros": {
+      "pais": "Comoros",
+      "continente": "Africa",
+      "region": "Africa Oriental",
+      "poblacion": "0.8 M hab.",
+      "pbi": "USD 1.2B",
+      "pbi_per_capita": "USD 1,519",
+      "cons_pescado_pc": "15.1 kg/año",
+      "cons_pelagicos_pc": "10.4 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "N/D",
+          "volumen_importado": "N/D",
+          "precio_prom_importacion": "N/D",
+          "precio_a_chile_rango": "USD 0.83-0.83/kg",
+          "exp_chile_pais_fob": "USD 22.1K",
+          "volumen_exportado": "26.5K kg",
+          "precio_pagado_a_chile": "USD 0.83/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2022",
+          "ntm_registradas": "4",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 16,
+          "img": "page-016.webp"
+        }
+      },
+      "slug": "comoros"
+    },
+    "Congo": {
+      "pais": "Congo",
+      "continente": "Africa",
+      "region": "Africa Central",
+      "poblacion": "6.3 M hab.",
+      "pbi": "USD 15.7B",
+      "pbi_per_capita": "USD 2,482",
+      "cons_pescado_pc": "24.0 kg/año",
+      "cons_pelagicos_pc": "8.1 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 12.7M",
+          "volumen_importado": "9.0M kg",
+          "precio_prom_importacion": "USD 1.30/kg",
+          "precio_a_chile_rango": "USD 0.78-0.89/kg",
+          "exp_chile_pais_fob": "USD 2.5K",
+          "volumen_exportado": "3.2K kg",
+          "precio_pagado_a_chile": "USD 0.78/kg2",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Valparaiso (100%, 1 env.)",
+          "ntm_anio": "2015",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.91",
+              "min": "0.80",
+              "max": "1.37"
+            },
+            "400-600g": {
+              "prom": "0.97",
+              "min": "0.80",
+              "max": "1.30"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.01",
+              "min": "0.80",
+              "max": "1.37"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.93",
+              "min": "0.85",
+              "max": "1.11"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "45%",
+            "200-400": "27%",
+            "400-600": "20%",
+            "500-900": "9%"
+          },
+          "pagina": 17,
+          "img": "page-017.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 25.0M",
+          "volumen_importado": "15.6M kg",
+          "precio_prom_importacion": "USD 1.45/kg",
+          "precio_a_chile_rango": "USD 0.77-1.03/kg",
+          "exp_chile_pais_fob": "USD 9.2M",
+          "volumen_exportado": "9.5M kg",
+          "precio_pagado_a_chile": "USD 0.97/kg2",
+          "part_en_exp_chilenas": "2.1%",
+          "cagr_5anios_exp": "+94.4% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (75% FOB, 13 env.)",
+          "ntm_anio": "2015",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.91",
+              "min": "0.80",
+              "max": "1.37"
+            },
+            "400-600g": {
+              "prom": "0.97",
+              "min": "0.80",
+              "max": "1.30"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.01",
+              "min": "0.80",
+              "max": "1.37"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.93",
+              "min": "0.85",
+              "max": "1.11"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "45%",
+            "200-400": "27%",
+            "400-600": "20%",
+            "500-900": "9%"
+          },
+          "pagina": 18,
+          "img": "page-018.webp"
+        }
+      },
+      "slug": "congo"
+    },
+    "Côte d'Ivoire": {
+      "pais": "Côte d'Ivoire",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "31.9 M hab.",
+      "pbi": "USD 87.1B",
+      "pbi_per_capita": "USD 2,728",
+      "cons_pescado_pc": "20.9 kg/año",
+      "cons_pelagicos_pc": "13.7 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 148.2M",
+          "volumen_importado": "124.9M kg",
+          "precio_prom_importacion": "USD 1.15/kg",
+          "precio_a_chile_rango": "USD 0.54-1.09/kg",
+          "exp_chile_pais_fob": "USD 340.9K",
+          "volumen_exportado": "313.6K kg",
+          "precio_pagado_a_chile": "USD 1.09/kg",
+          "part_en_exp_chilenas": "3.5%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2019",
+          "ntm_registradas": "3",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 19,
+          "img": "page-019.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 277.9M",
+          "volumen_importado": "216.3M kg",
+          "precio_prom_importacion": "USD 1.22/kg",
+          "precio_a_chile_rango": "USD 0.65-1.09/kg",
+          "exp_chile_pais_fob": "USD 140.7M",
+          "volumen_exportado": "143.7M kg",
+          "precio_pagado_a_chile": "USD 0.98/kg",
+          "part_en_exp_chilenas": "32.1%",
+          "cagr_5anios_exp": "+41.5% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2019",
+          "ntm_registradas": "3",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 20,
+          "img": "page-020.webp"
+        }
+      },
+      "slug": "cote-divoire"
+    },
+    "R.D. Congo": {
+      "pais": "R.D. Congo",
+      "continente": "Africa",
+      "region": "Africa Central",
+      "poblacion": "102.4 M hab.",
+      "pbi": "USD 70.4B",
+      "pbi_per_capita": "USD 688",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 99.8M",
+          "volumen_importado": "163.7M kg",
+          "precio_prom_importacion": "USD 0.52/kg",
+          "precio_a_chile_rango": "USD 1.05-1.05/kg",
+          "exp_chile_pais_fob": "USD 82.5K",
+          "volumen_exportado": "78.6K kg",
+          "precio_pagado_a_chile": "USD 1.05/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2020",
+          "ntm_registradas": "0",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 21,
+          "img": "page-021.webp"
+        }
+      },
+      "slug": "rd-congo"
+    },
+    "Egipto": {
+      "pais": "Egipto",
+      "continente": "Africa",
+      "region": "Africa del Norte",
+      "poblacion": "116.5 M hab.",
+      "pbi": "USD 389.1B",
+      "pbi_per_capita": "USD 3,338",
+      "cons_pescado_pc": "25.7 kg/año",
+      "cons_pelagicos_pc": "5.1 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 142.3M",
+          "volumen_importado": "63.8M kg",
+          "precio_prom_importacion": "USD 1.23/kg",
+          "precio_a_chile_rango": "USD 0.57-0.57/kg",
+          "exp_chile_pais_fob": "USD 14.3K",
+          "volumen_exportado": "25.0K kg",
+          "precio_pagado_a_chile": "USD 0.57/kg",
+          "part_en_exp_chilenas": "0.5%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2022",
+          "ntm_registradas": "123",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.80",
+              "min": "0.80",
+              "max": "0.80"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "100%"
+          },
+          "pagina": 22,
+          "img": "page-022.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 57.2M",
+          "volumen_importado": "0 kg",
+          "precio_prom_importacion": "USD 2.24/kg",
+          "precio_a_chile_rango": "USD 0.68-1.00/kg",
+          "exp_chile_pais_fob": "USD 106.1K",
+          "volumen_exportado": "132.5K kg",
+          "precio_pagado_a_chile": "USD 0.80/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "-28.5% a.a.",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (100%, 1 env.)",
+          "ntm_anio": "2022",
+          "ntm_registradas": "123",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.80",
+              "min": "0.80",
+              "max": "0.80"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "100%"
+          },
+          "pagina": 23,
+          "img": "page-023.webp"
+        }
+      },
+      "slug": "egipto"
+    },
+    "Guinea Ecuatorial": {
+      "pais": "Guinea Ecuatorial",
+      "continente": "Africa",
+      "region": "Africa Central",
+      "poblacion": "1.9 M hab.",
+      "pbi": "USD 12.8B",
+      "pbi_per_capita": "USD 6,745",
+      "cons_pescado_pc": "9.9 kg/año",
+      "cons_pelagicos_pc": "4.5 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "N/D",
+          "volumen_importado": "N/D",
+          "precio_prom_importacion": "N/D",
+          "precio_a_chile_rango": "USD 0.68-1.16/kg",
+          "exp_chile_pais_fob": "USD 571.7K",
+          "volumen_exportado": "655.3K kg",
+          "precio_pagado_a_chile": "USD 0.87/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "+51.9% a.a.",
+          "arancel_mfn": null,
+          "efectivo_chile": null,
+          "trato": null,
+          "puerto_embarque": null,
+          "ntm_anio": null,
+          "ntm_registradas": null,
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "0.90",
+              "min": "0.80",
+              "max": "1.00"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.81",
+              "min": "0.81",
+              "max": "0.81"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "96%",
+            "500-900": "4%"
+          },
+          "pagina": 24,
+          "img": "page-024.webp"
+        }
+      },
+      "slug": "guinea-ecuatorial"
+    },
+    "Gabón": {
+      "pais": "Gabón",
+      "continente": "Africa",
+      "region": "Africa Central",
+      "poblacion": "2.5 M hab.",
+      "pbi": "USD 20.9B",
+      "pbi_per_capita": "USD 8,230",
+      "cons_pescado_pc": "32.1 kg/año",
+      "cons_pelagicos_pc": "14.7 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 807.8K",
+          "volumen_importado": "831.7K kg",
+          "precio_prom_importacion": "USD 1.09/kg",
+          "precio_a_chile_rango": "USD 0.82-1.07/kg",
+          "exp_chile_pais_fob": "USD 167.5K",
+          "volumen_exportado": "156.9K kg",
+          "precio_pagado_a_chile": "USD 1.07/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "+14.6% a.a.",
+          "arancel_mfn": "20%",
+          "efectivo_chile": "20%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (52% FOB, 1 env.)",
+          "ntm_anio": "2022",
+          "ntm_registradas": "7",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.00",
+              "min": "1.00",
+              "max": "1.00"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.09",
+              "min": "1.07",
+              "max": "1.11"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "67%",
+            "900+": "33%"
+          },
+          "pagina": 25,
+          "img": "page-025.webp"
+        }
+      },
+      "slug": "gabon"
+    },
+    "Ghana": {
+      "pais": "Ghana",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "34.4 M hab.",
+      "pbi": "USD 82.3B",
+      "pbi_per_capita": "USD 2,391",
+      "cons_pescado_pc": "24.8 kg/año",
+      "cons_pelagicos_pc": "17.5 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 39.0M",
+          "volumen_importado": "0 kg",
+          "precio_prom_importacion": "USD 1.52/kg",
+          "precio_a_chile_rango": "USD 0.74-1.08/kg",
+          "exp_chile_pais_fob": "USD 21.1M",
+          "volumen_exportado": "22.7M kg",
+          "precio_pagado_a_chile": "USD 0.93/kg5",
+          "part_en_exp_chilenas": "4.8%",
+          "cagr_5anios_exp": "-5.8% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (56% FOB, 9 env.)",
+          "ntm_anio": "2025",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.91",
+              "min": "0.81",
+              "max": "1.33"
+            },
+            "400-600g": {
+              "prom": "0.86",
+              "min": "0.80",
+              "max": "1.00"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.06",
+              "min": "0.85",
+              "max": "1.20"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.91",
+              "min": "0.81",
+              "max": "1.05"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "49%",
+            "500-900": "33%",
+            "900+": "14%",
+            "400-600": "5%"
+          },
+          "pagina": 26,
+          "img": "page-026.webp"
+        }
+      },
+      "slug": "ghana"
+    },
+    "Guinea": {
+      "pais": "Guinea",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "14.8 M hab.",
+      "pbi": "USD 25.0B",
+      "pbi_per_capita": "USD 1,695",
+      "cons_pescado_pc": "11.3 kg/año",
+      "cons_pelagicos_pc": "4.4 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "N/D",
+          "volumen_importado": "N/D",
+          "precio_prom_importacion": "N/D",
+          "precio_a_chile_rango": "USD 0.83-1.19/kg",
+          "exp_chile_pais_fob": "USD 77.5K",
+          "volumen_exportado": "78.5K kg",
+          "precio_pagado_a_chile": "USD 0.99/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "-9.5% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2012",
+          "ntm_registradas": "15",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 27,
+          "img": "page-027.webp"
+        }
+      },
+      "slug": "guinea"
+    },
+    "Guinea-Bisáu": {
+      "pais": "Guinea-Bisáu",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "1.9 M hab.",
+      "pbi": "USD 1.5B",
+      "pbi_per_capita": "USD 783",
+      "cons_pescado_pc": "1.2 kg/año",
+      "cons_pelagicos_pc": "1.0 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 7.9K",
+          "volumen_importado": "162.8K kg",
+          "precio_prom_importacion": "USD 0.05/kg",
+          "precio_a_chile_rango": "USD 0.79-0.79/kg",
+          "exp_chile_pais_fob": "USD 117.8K",
+          "volumen_exportado": "150.0K kg",
+          "precio_pagado_a_chile": "USD 0.79/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2025",
+          "ntm_registradas": "0",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 28,
+          "img": "page-028.webp"
+        }
+      },
+      "slug": "guinea-bisau"
+    },
+    "Liberia": {
+      "pais": "Liberia",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "5.6 M hab.",
+      "pbi": "USD 4.8B",
+      "pbi_per_capita": "USD 851",
+      "cons_pescado_pc": "4.3 kg/año",
+      "cons_pelagicos_pc": "1.6 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 1.5M",
+          "volumen_importado": "3.8M kg",
+          "precio_prom_importacion": "USD 0.60/kg",
+          "precio_a_chile_rango": "USD 0.63-1.01/kg",
+          "exp_chile_pais_fob": "USD 649.1K",
+          "volumen_exportado": "788.5K kg",
+          "precio_pagado_a_chile": "USD 0.82/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "+18.4% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (82% FOB, 3 env.)",
+          "ntm_anio": "2014",
+          "ntm_registradas": "13",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.86",
+              "min": "0.81",
+              "max": "0.98"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "0.80",
+              "min": "0.80",
+              "max": "0.80"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.83",
+              "min": "0.83",
+              "max": "0.83"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "50%",
+            "200-400": "30%",
+            "500-900": "20%"
+          },
+          "pagina": 29,
+          "img": "page-029.webp"
+        }
+      },
+      "slug": "liberia"
+    },
+    "Mali": {
+      "pais": "Mali",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "24.5 M hab.",
+      "pbi": "USD 26.8B",
+      "pbi_per_capita": "USD 1,095",
+      "cons_pescado_pc": "8.0 kg/año",
+      "cons_pelagicos_pc": "0.2 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 760.4K",
+          "volumen_importado": "1.6M kg",
+          "precio_prom_importacion": "USD 0.59/kg",
+          "precio_a_chile_rango": "USD 0.75-0.98/kg",
+          "exp_chile_pais_fob": "USD 254.3K",
+          "volumen_exportado": "264.0K kg",
+          "precio_pagado_a_chile": "USD 0.96/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (53% FOB, 2 env.)",
+          "ntm_anio": "2014",
+          "ntm_registradas": "12",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.87",
+              "min": "0.87",
+              "max": "0.87"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "100%"
+          },
+          "pagina": 30,
+          "img": "page-030.webp"
+        }
+      },
+      "slug": "mali"
+    },
+    "Mozambique": {
+      "pais": "Mozambique",
+      "continente": "Africa",
+      "region": "Africa Oriental",
+      "poblacion": "34.6 M hab.",
+      "pbi": "USD 22.7B",
+      "pbi_per_capita": "USD 657",
+      "cons_pescado_pc": "14.1 kg/año",
+      "cons_pelagicos_pc": "1.5 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 67.2M",
+          "volumen_importado": "47.7M kg",
+          "precio_prom_importacion": "USD 1.56/kg",
+          "precio_a_chile_rango": "USD 0.72-1.15/kg",
+          "exp_chile_pais_fob": "USD 667.8K",
+          "volumen_exportado": "705.0K kg",
+          "precio_pagado_a_chile": "USD 0.95/kg",
+          "part_en_exp_chilenas": "0.2%",
+          "cagr_5anios_exp": "+3.3% a.a.",
+          "arancel_mfn": "20%",
+          "efectivo_chile": "20%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (70% FOB, 3 env.)",
+          "ntm_anio": "2021",
+          "ntm_registradas": "23",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.93",
+              "min": "0.83",
+              "max": "1.07"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.86",
+              "min": "0.86",
+              "max": "0.86"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "93%",
+            "500-900": "7%"
+          },
+          "pagina": 31,
+          "img": "page-031.webp"
+        }
+      },
+      "slug": "mozambique"
+    },
+    "Namibia": {
+      "pais": "Namibia",
+      "continente": "Africa",
+      "region": "Africa Austral",
+      "poblacion": "2.8 M hab.",
+      "pbi": "USD 12.4B",
+      "pbi_per_capita": "USD 4,413",
+      "cons_pescado_pc": "11.4 kg/año",
+      "cons_pelagicos_pc": "7.0 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 254.0K",
+          "volumen_importado": "145.3K kg",
+          "precio_prom_importacion": "USD 1.26/kg",
+          "precio_a_chile_rango": "USD 0.61-0.61/kg",
+          "exp_chile_pais_fob": "USD 1.8K",
+          "volumen_exportado": "2.9K kg",
+          "precio_pagado_a_chile": "USD 0.61/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2011",
+          "ntm_registradas": "5",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 32,
+          "img": "page-032.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 349.4K",
+          "volumen_importado": "123.4K kg",
+          "precio_prom_importacion": "USD 1.88/kg",
+          "precio_a_chile_rango": "USD 0.81-1.02/kg",
+          "exp_chile_pais_fob": "USD 108.2K",
+          "volumen_exportado": "106.0K kg",
+          "precio_pagado_a_chile": "USD 1.02/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2011",
+          "ntm_registradas": "5",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 33,
+          "img": "page-033.webp"
+        }
+      },
+      "slug": "namibia"
+    },
+    "Níger": {
+      "pais": "Níger",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "27.0 M hab.",
+      "pbi": "USD 19.9B",
+      "pbi_per_capita": "USD 735",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 65.8K",
+          "volumen_importado": "60.0K kg",
+          "precio_prom_importacion": "USD 1.16/kg",
+          "precio_a_chile_rango": "USD 0.84-1.15/kg",
+          "exp_chile_pais_fob": "USD 348.4K",
+          "volumen_exportado": "366.0K kg",
+          "precio_pagado_a_chile": "USD 0.95/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "+39.4% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (100%, 2 env.)",
+          "ntm_anio": "2014",
+          "ntm_registradas": "7",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.81",
+              "min": "0.81",
+              "max": "0.81"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.30",
+              "min": "1.30",
+              "max": "1.30"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "71%",
+            "900+": "29%"
+          },
+          "pagina": 34,
+          "img": "page-034.webp"
+        }
+      },
+      "slug": "niger"
+    },
+    "Nigeria": {
+      "pais": "Nigeria",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "232.7 M hab.",
+      "pbi": "USD 252.3B",
+      "pbi_per_capita": "USD 1,084",
+      "cons_pescado_pc": "8.5 kg/año",
+      "cons_pelagicos_pc": "2.8 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 110.8M",
+          "volumen_importado": "69.2M kg",
+          "precio_prom_importacion": "USD 2.36/kg",
+          "precio_a_chile_rango": "USD 0.81-1.15/kg",
+          "exp_chile_pais_fob": "USD 152.4K",
+          "volumen_exportado": "132.5K kg",
+          "precio_pagado_a_chile": "USD 1.15/kg",
+          "part_en_exp_chilenas": "1.6%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (100%, 1 env.)",
+          "ntm_anio": "2013",
+          "ntm_registradas": "16",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.90",
+              "min": "0.77",
+              "max": "1.37"
+            },
+            "400-600g": {
+              "prom": "0.89",
+              "min": "0.80",
+              "max": "1.37"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "0.99",
+              "min": "0.80",
+              "max": "1.30"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.91",
+              "min": "0.80",
+              "max": "1.20"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "35%",
+            "900+": "23%",
+            "400-600": "23%",
+            "500-900": "19%"
+          },
+          "pagina": 35,
+          "img": "page-035.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 162.2M",
+          "volumen_importado": "93.3M kg",
+          "precio_prom_importacion": "USD 3.06/kg",
+          "precio_a_chile_rango": "USD 0.74-1.08/kg",
+          "exp_chile_pais_fob": "USD 114.3M",
+          "volumen_exportado": "124.6M kg",
+          "precio_pagado_a_chile": "USD 0.92/kg",
+          "part_en_exp_chilenas": "26.1%",
+          "cagr_5anios_exp": "+17.1% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (72% FOB, 21 env.)",
+          "ntm_anio": "2013",
+          "ntm_registradas": "17",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.90",
+              "min": "0.77",
+              "max": "1.37"
+            },
+            "400-600g": {
+              "prom": "0.89",
+              "min": "0.80",
+              "max": "1.37"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "0.99",
+              "min": "0.80",
+              "max": "1.30"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.91",
+              "min": "0.80",
+              "max": "1.20"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "35%",
+            "900+": "23%",
+            "400-600": "23%",
+            "500-900": "19%"
+          },
+          "pagina": 36,
+          "img": "page-036.webp"
+        }
+      },
+      "slug": "nigeria"
+    },
+    "Senegal": {
+      "pais": "Senegal",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "18.5 M hab.",
+      "pbi": "USD 32.8B",
+      "pbi_per_capita": "USD 1,773",
+      "cons_pescado_pc": "19.2 kg/año",
+      "cons_pelagicos_pc": "10.8 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 839.9K",
+          "volumen_importado": "1.3M kg",
+          "precio_prom_importacion": "USD 0.94/kg",
+          "precio_a_chile_rango": "USD 0.85-1.09/kg",
+          "exp_chile_pais_fob": "USD 47.2K",
+          "volumen_exportado": "52.4K kg",
+          "precio_pagado_a_chile": "USD 0.90/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (100%, 2 env.)",
+          "ntm_anio": "2012",
+          "ntm_registradas": "6",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "0.90",
+              "min": "0.90",
+              "max": "0.90"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "100%"
+          },
+          "pagina": 37,
+          "img": "page-037.webp"
+        }
+      },
+      "slug": "senegal"
+    },
+    "Sudáfrica": {
+      "pais": "Sudáfrica",
+      "continente": "Africa",
+      "region": "Africa Austral",
+      "poblacion": "64.0 M hab.",
+      "pbi": "USD 401.1B",
+      "pbi_per_capita": "USD 6,267",
+      "cons_pescado_pc": "6.4 kg/año",
+      "cons_pelagicos_pc": "2.9 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 0",
+          "volumen_importado": "12.1M kg",
+          "precio_prom_importacion": "USD 0.00/kg",
+          "precio_a_chile_rango": "USD 0.81-1.09/kg",
+          "exp_chile_pais_fob": "USD 21.0K",
+          "volumen_exportado": "25.3K kg",
+          "precio_pagado_a_chile": "USD 0.83/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "-23.8% a.a.",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2019",
+          "ntm_registradas": "45",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 38,
+          "img": "page-038.webp"
+        }
+      },
+      "slug": "sudafrica"
+    },
+    "Togo": {
+      "pais": "Togo",
+      "continente": "Africa",
+      "region": "Africa Occidental",
+      "poblacion": "9.5 M hab.",
+      "pbi": "USD 10.7B",
+      "pbi_per_capita": "USD 1,119",
+      "cons_pescado_pc": "9.1 kg/año",
+      "cons_pelagicos_pc": "3.1 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 15.5M",
+          "volumen_importado": "21.7M kg",
+          "precio_prom_importacion": "USD 0.58/kg",
+          "precio_a_chile_rango": "USD 1.11-1.11/kg",
+          "exp_chile_pais_fob": "USD 67.5K",
+          "volumen_exportado": "60.9K kg",
+          "precio_pagado_a_chile": "USD 1.11/kg2",
+          "part_en_exp_chilenas": "0.7%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Antonio (49% FOB, 1 env.)",
+          "ntm_anio": "2014",
+          "ntm_registradas": "14",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.94",
+              "min": "0.84",
+              "max": "1.33"
+            },
+            "400-600g": {
+              "prom": "0.92",
+              "min": "0.80",
+              "max": "1.20"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.04",
+              "min": "0.80",
+              "max": "1.25"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.94",
+              "min": "0.81",
+              "max": "1.07"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "45%",
+            "200-400": "24%",
+            "900+": "16%",
+            "400-600": "15%"
+          },
+          "pagina": 39,
+          "img": "page-039.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 21.3M",
+          "volumen_importado": "28.2M kg",
+          "precio_prom_importacion": "USD 0.63/kg",
+          "precio_a_chile_rango": "USD 0.80-1.05/kg",
+          "exp_chile_pais_fob": "USD 4.6M",
+          "volumen_exportado": "4.7M kg",
+          "precio_pagado_a_chile": "USD 0.97/kg2",
+          "part_en_exp_chilenas": "1.0%",
+          "cagr_5anios_exp": "+111.0% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "10%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (64% FOB, 11 env.)",
+          "ntm_anio": "2014",
+          "ntm_registradas": "14",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.94",
+              "min": "0.84",
+              "max": "1.33"
+            },
+            "400-600g": {
+              "prom": "0.92",
+              "min": "0.80",
+              "max": "1.20"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.04",
+              "min": "0.80",
+              "max": "1.25"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.94",
+              "min": "0.81",
+              "max": "1.07"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "45%",
+            "200-400": "24%",
+            "900+": "16%",
+            "400-600": "15%"
+          },
+          "pagina": 40,
+          "img": "page-040.webp"
+        }
+      },
+      "slug": "togo"
+    },
+    "Tanzania": {
+      "pais": "Tanzania",
+      "continente": "Africa",
+      "region": "Africa Oriental",
+      "poblacion": "59.2 M hab.",
+      "pbi": "USD 61.0B",
+      "pbi_per_capita": "USD 1,063",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 789",
+          "volumen_importado": "875 kg",
+          "precio_prom_importacion": "USD 1.53/kg",
+          "precio_a_chile_rango": "USD 0.74-0.74/kg",
+          "exp_chile_pais_fob": "USD 75.8K",
+          "volumen_exportado": "102.0K kg",
+          "precio_pagado_a_chile": "USD 0.74/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "35%",
+          "efectivo_chile": "35%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2024",
+          "ntm_registradas": "46",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 41,
+          "img": "page-041.webp"
+        }
+      },
+      "slug": "tanzania"
+    },
+    "Bolivia": {
+      "pais": "Bolivia",
+      "continente": "America",
+      "region": "America del Sur",
+      "poblacion": "11.7 M hab.",
+      "pbi": "USD 49.1B",
+      "pbi_per_capita": "USD 4,203",
+      "cons_pescado_pc": "2.8 kg/año",
+      "cons_pelagicos_pc": "0.5 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 94",
+          "volumen_importado": "96 kg",
+          "precio_prom_importacion": "USD 0.99/kg",
+          "precio_a_chile_rango": "USD 0.88-0.90/kg",
+          "exp_chile_pais_fob": "USD 7",
+          "volumen_exportado": "kg",
+          "precio_pagado_a_chile": "USD 0.90/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "20%",
+          "efectivo_chile": "17.6% (ALADI AR.PAR4)",
+          "trato": null,
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2018",
+          "ntm_registradas": "10",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 44,
+          "img": "page-044.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 80",
+          "volumen_importado": "20 kg",
+          "precio_prom_importacion": "USD 0.96/kg",
+          "precio_a_chile_rango": "USD 0.90-0.94/kg",
+          "exp_chile_pais_fob": "USD 86.9K",
+          "volumen_exportado": "92.9K kg",
+          "precio_pagado_a_chile": "USD 0.94/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "20%",
+          "efectivo_chile": "17.6% (ALADI AR.PAR4)",
+          "trato": null,
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2018",
+          "ntm_registradas": "10",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 45,
+          "img": "page-045.webp"
+        }
+      },
+      "slug": "bolivia"
+    },
+    "Brasil": {
+      "pais": "Brasil",
+      "continente": "America",
+      "region": "America del Sur",
+      "poblacion": "212.0 M hab.",
+      "pbi": "USD 2185.8B",
+      "pbi_per_capita": "USD 10,311",
+      "cons_pescado_pc": "8.3 kg/año",
+      "cons_pelagicos_pc": "0.8 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 204.3K",
+          "volumen_importado": "179.0K kg",
+          "precio_prom_importacion": "USD 1.05/kg",
+          "precio_a_chile_rango": "USD 0.80-1.05/kg",
+          "exp_chile_pais_fob": "USD 356.8K",
+          "volumen_exportado": "343.5K kg",
+          "precio_pagado_a_chile": "USD 1.04/kg",
+          "part_en_exp_chilenas": "3.6%",
+          "cagr_5anios_exp": "+48.9% a.a.",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "0% (AAP.CE35)",
+          "trato": null,
+          "puerto_embarque": "Coronel (100%, 5 env.)",
+          "ntm_anio": "2018",
+          "ntm_registradas": "52",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.10",
+              "min": "1.10",
+              "max": "1.10"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.03",
+              "min": "0.99",
+              "max": "1.10"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.00",
+              "min": "1.00",
+              "max": "1.00"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "69%",
+            "500-900": "15%",
+            "200-400": "15%"
+          },
+          "pagina": 46,
+          "img": "page-046.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 3.3K",
+          "volumen_importado": "1.0K kg",
+          "precio_prom_importacion": "USD 0.87/kg",
+          "precio_a_chile_rango": "USD 0.51-1.10/kg",
+          "exp_chile_pais_fob": "USD 20.0K",
+          "volumen_exportado": "25.0K kg",
+          "precio_pagado_a_chile": "USD 0.80/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "0% (AAP.CE35)",
+          "trato": null,
+          "puerto_embarque": "Coronel (100%, 1 env.)",
+          "ntm_anio": "2018",
+          "ntm_registradas": "52",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.10",
+              "min": "1.10",
+              "max": "1.10"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.03",
+              "min": "0.99",
+              "max": "1.10"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.00",
+              "min": "1.00",
+              "max": "1.00"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "69%",
+            "500-900": "15%",
+            "200-400": "15%"
+          },
+          "pagina": 47,
+          "img": "page-047.webp"
+        }
+      },
+      "slug": "brasil"
+    },
+    "Canadá": {
+      "pais": "Canadá",
+      "continente": "America",
+      "region": "America del Norte",
+      "poblacion": "41.3 M hab.",
+      "pbi": "USD 2243.6B",
+      "pbi_per_capita": "USD 54,340",
+      "cons_pescado_pc": "20.8 kg/año",
+      "cons_pelagicos_pc": "3.4 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 0",
+          "volumen_importado": "5.4M kg",
+          "precio_prom_importacion": "USD 0.00/kg",
+          "precio_a_chile_rango": "USD 1.11-1.58/kg",
+          "exp_chile_pais_fob": "USD 30.9K",
+          "volumen_exportado": "19.5K kg",
+          "precio_pagado_a_chile": "USD 1.58/kg5",
+          "part_en_exp_chilenas": "0.3%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (100%, 1 env.)",
+          "ntm_anio": "2024",
+          "ntm_registradas": "50",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.10",
+              "min": "1.05",
+              "max": "1.17"
+            },
+            "400-600g": {
+              "prom": "1.18",
+              "min": "0.90",
+              "max": "1.34"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.14",
+              "min": "0.85",
+              "max": "1.32"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.14",
+              "min": "0.95",
+              "max": "1.58"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "45%",
+            "500-900": "24%",
+            "400-600": "18%",
+            "200-400": "13%"
+          },
+          "pagina": 48,
+          "img": "page-048.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 0",
+          "volumen_importado": "1.1M kg",
+          "precio_prom_importacion": "USD 0.00/kg",
+          "precio_a_chile_rango": "USD 0.85-1.33/kg",
+          "exp_chile_pais_fob": "USD 756.2K",
+          "volumen_exportado": "663.0K kg",
+          "precio_pagado_a_chile": "USD 1.14/kg5",
+          "part_en_exp_chilenas": "0.2%",
+          "cagr_5anios_exp": "+94.0% a.a.",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (88% FOB, 20 env.)",
+          "ntm_anio": "2024",
+          "ntm_registradas": "50",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.10",
+              "min": "1.05",
+              "max": "1.17"
+            },
+            "400-600g": {
+              "prom": "1.18",
+              "min": "0.90",
+              "max": "1.34"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.14",
+              "min": "0.85",
+              "max": "1.32"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.14",
+              "min": "0.95",
+              "max": "1.58"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "45%",
+            "500-900": "24%",
+            "400-600": "18%",
+            "200-400": "13%"
+          },
+          "pagina": 49,
+          "img": "page-049.webp"
+        }
+      },
+      "slug": "canada"
+    },
+    "Colombia": {
+      "pais": "Colombia",
+      "continente": "America",
+      "region": "America del Sur",
+      "poblacion": "52.9 M hab.",
+      "pbi": "USD 418.8B",
+      "pbi_per_capita": "USD 7,919",
+      "cons_pescado_pc": "9.1 kg/año",
+      "cons_pelagicos_pc": "3.4 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 76.1K",
+          "volumen_importado": "50.6K kg",
+          "precio_prom_importacion": "USD 2.04/kg",
+          "precio_a_chile_rango": "USD 1.43-1.43/kg",
+          "exp_chile_pais_fob": "USD 22.3K",
+          "volumen_exportado": "15.6K kg",
+          "precio_pagado_a_chile": "USD 1.43/kg",
+          "part_en_exp_chilenas": "0.6%",
+          "cagr_5anios_exp": "N/D4",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (AAP.CE24)",
+          "trato": null,
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2025",
+          "ntm_registradas": "22",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.68",
+              "min": "1.57",
+              "max": "1.78"
+            },
+            "400-600g": {
+              "prom": "1.73",
+              "min": "1.60",
+              "max": "1.88"
+            },
+            "600-900g": {
+              "prom": "1.83",
+              "min": "1.75",
+              "max": "1.90"
+            },
+            "900g+": {
+              "prom": "0.97",
+              "min": "0.78",
+              "max": "1.16"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.78",
+              "min": "0.78",
+              "max": "0.78"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "10%",
+            "900+": "9%",
+            "400-600": "7%",
+            "500-900": "4%"
+          },
+          "pagina": 50,
+          "img": "page-050.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 3.3M",
+          "volumen_importado": "1.9M kg",
+          "precio_prom_importacion": "USD 1.68/kg",
+          "precio_a_chile_rango": "USD 1.20-1.66/kg",
+          "exp_chile_pais_fob": "USD 2.1M",
+          "volumen_exportado": "1.2M kg",
+          "precio_pagado_a_chile": "USD 1.65/kg",
+          "part_en_exp_chilenas": "0.5%",
+          "cagr_5anios_exp": "+16.6% a.a.4",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (AAP.CE24)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (86% FOB, 21 env.)",
+          "ntm_anio": "2025",
+          "ntm_registradas": "22",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.68",
+              "min": "1.57",
+              "max": "1.78"
+            },
+            "400-600g": {
+              "prom": "1.73",
+              "min": "1.60",
+              "max": "1.88"
+            },
+            "600-900g": {
+              "prom": "1.83",
+              "min": "1.75",
+              "max": "1.90"
+            },
+            "900g+": {
+              "prom": "0.97",
+              "min": "0.78",
+              "max": "1.16"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.78",
+              "min": "0.78",
+              "max": "0.78"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "10%",
+            "900+": "9%",
+            "400-600": "7%",
+            "500-900": "4%"
+          },
+          "pagina": 51,
+          "img": "page-051.webp"
+        }
+      },
+      "slug": "colombia"
+    },
+    "Cuba": {
+      "pais": "Cuba",
+      "continente": "America",
+      "region": "America Central y Caribe",
+      "poblacion": "11.0 M hab.",
+      "pbi": "USD 107.4B",
+      "pbi_per_capita": "USD 9,605",
+      "cons_pescado_pc": "6.1 kg/año",
+      "cons_pelagicos_pc": "2.6 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 210.1K",
+          "volumen_importado": "75.9K kg",
+          "precio_prom_importacion": "USD 1.53/kg",
+          "precio_a_chile_rango": "USD 0.99-0.99/kg",
+          "exp_chile_pais_fob": "USD 334.1K",
+          "volumen_exportado": "336.0K kg",
+          "precio_pagado_a_chile": "USD 0.99/kg",
+          "part_en_exp_chilenas": "26.7%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2018",
+          "ntm_registradas": "17",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.08",
+              "min": "0.93",
+              "max": "1.18"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.36",
+              "min": "1.03",
+              "max": "1.41"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.25",
+              "min": "1.12",
+              "max": "1.38"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "66%",
+            "500-900": "17%",
+            "900+": "17%"
+          },
+          "pagina": 52,
+          "img": "page-052.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 946.0K",
+          "volumen_importado": "519.3K kg",
+          "precio_prom_importacion": "USD 3.61/kg",
+          "precio_a_chile_rango": "USD 0.96-1.22/kg",
+          "exp_chile_pais_fob": "USD 1.6M",
+          "volumen_exportado": "1.4M kg",
+          "precio_pagado_a_chile": "USD 1.12/kg",
+          "part_en_exp_chilenas": "0.4%",
+          "cagr_5anios_exp": "+0.1% a.a.",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (100%, 11 env.)",
+          "ntm_anio": "2018",
+          "ntm_registradas": "17",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.08",
+              "min": "0.93",
+              "max": "1.18"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.36",
+              "min": "1.03",
+              "max": "1.41"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.25",
+              "min": "1.12",
+              "max": "1.38"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "66%",
+            "500-900": "17%",
+            "900+": "17%"
+          },
+          "pagina": 53,
+          "img": "page-053.webp"
+        }
+      },
+      "slug": "cuba"
+    },
+    "Ecuador": {
+      "pais": "Ecuador",
+      "continente": "America",
+      "region": "America del Sur",
+      "poblacion": "18.1 M hab.",
+      "pbi": "USD 124.7B",
+      "pbi_per_capita": "USD 6,875",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 449.2K",
+          "volumen_importado": "0 kg",
+          "precio_prom_importacion": "USD 1.71/kg",
+          "precio_a_chile_rango": "USD 0.95-0.95/kg",
+          "exp_chile_pais_fob": "USD 50.4K",
+          "volumen_exportado": "53.0K kg",
+          "precio_pagado_a_chile": "USD 0.95/kg",
+          "part_en_exp_chilenas": "0.5%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (50% FOB, 1 env.)",
+          "ntm_anio": "2018",
+          "ntm_registradas": "27",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.95",
+              "min": "0.95",
+              "max": "0.95"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "100%"
+          },
+          "pagina": 54,
+          "img": "page-054.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 58.1K",
+          "volumen_importado": "0 kg",
+          "precio_prom_importacion": "USD 1.09/kg",
+          "precio_a_chile_rango": "USD 0.97-0.97/kg",
+          "exp_chile_pais_fob": "USD 48.6K",
+          "volumen_exportado": "50.0K kg",
+          "precio_pagado_a_chile": "USD 0.97/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2018",
+          "ntm_registradas": "27",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.95",
+              "min": "0.95",
+              "max": "0.95"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "100%"
+          },
+          "pagina": 55,
+          "img": "page-055.webp"
+        }
+      },
+      "slug": "ecuador"
+    },
+    "Haití": {
+      "pais": "Haití",
+      "continente": "America",
+      "region": "America Central y Caribe",
+      "poblacion": "11.8 M hab.",
+      "pbi": "USD 25.2B",
+      "pbi_per_capita": "USD 2,143",
+      "cons_pescado_pc": "6.6 kg/año",
+      "cons_pelagicos_pc": "4.5 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 2.5M",
+          "volumen_importado": "2.7M kg",
+          "precio_prom_importacion": "USD 1.02/kg",
+          "precio_a_chile_rango": "USD 0.88-1.05/kg",
+          "exp_chile_pais_fob": "USD 617.6K",
+          "volumen_exportado": "625.0K kg",
+          "precio_pagado_a_chile": "USD 0.99/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (80% FOB, 7 env.)",
+          "ntm_anio": "2022",
+          "ntm_registradas": "8",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.99",
+              "min": "0.88",
+              "max": "1.03"
+            },
+            "400-600g": {
+              "prom": "0.95",
+              "min": "0.93",
+              "max": "0.97"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "58%",
+            "400-600": "42%"
+          },
+          "pagina": 56,
+          "img": "page-056.webp"
+        }
+      },
+      "slug": "haiti"
+    },
+    "Jamaica": {
+      "pais": "Jamaica",
+      "continente": "America",
+      "region": "America Central y Caribe",
+      "poblacion": "2.8 M hab.",
+      "pbi": "USD 22.0B",
+      "pbi_per_capita": "USD 7,754",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 33.4K",
+          "volumen_importado": "26.2K kg",
+          "precio_prom_importacion": "USD 2.10/kg",
+          "precio_a_chile_rango": "USD 1.03-1.03/kg",
+          "exp_chile_pais_fob": "USD 27.0K",
+          "volumen_exportado": "26.2K kg",
+          "precio_pagado_a_chile": "USD 1.03/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "40%",
+          "efectivo_chile": "40%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2022",
+          "ntm_registradas": "22",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 57,
+          "img": "page-057.webp"
+        }
+      },
+      "slug": "jamaica"
+    },
+    "México": {
+      "pais": "México",
+      "continente": "America",
+      "region": "America del Norte",
+      "poblacion": "130.9 M hab.",
+      "pbi": "USD 1856.4B",
+      "pbi_per_capita": "USD 14,186",
+      "cons_pescado_pc": "16.0 kg/año",
+      "cons_pelagicos_pc": "5.3 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "N/D",
+          "volumen_importado": "N/D",
+          "precio_prom_importacion": "N/D",
+          "precio_a_chile_rango": "USD 0.85-6.16/kg",
+          "exp_chile_pais_fob": "USD 316",
+          "volumen_exportado": "kg",
+          "precio_pagado_a_chile": "USD 1.32/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (AAP.CE41)",
+          "trato": null,
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2018",
+          "ntm_registradas": "19",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 58,
+          "img": "page-058.webp"
+        }
+      },
+      "slug": "mexico"
+    },
+    "Perú": {
+      "pais": "Perú",
+      "continente": "America",
+      "region": "America del Sur",
+      "poblacion": "34.2 M hab.",
+      "pbi": "USD 289.2B",
+      "pbi_per_capita": "USD 8,452",
+      "cons_pescado_pc": "27.5 kg/año",
+      "cons_pelagicos_pc": "14.8 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 2.3M",
+          "volumen_importado": "1.9M kg",
+          "precio_prom_importacion": "USD 1.02/kg",
+          "precio_a_chile_rango": "USD 0.85-1.45/kg",
+          "exp_chile_pais_fob": "USD 2.3M",
+          "volumen_exportado": "1.8M kg",
+          "precio_pagado_a_chile": "USD 1.26/kg",
+          "part_en_exp_chilenas": "23.6%",
+          "cagr_5anios_exp": "+89.8% a.a.2",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (80% FOB, 19 env.)",
+          "ntm_anio": "2018",
+          "ntm_registradas": "15",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.09",
+              "min": "0.80",
+              "max": "1.30"
+            },
+            "400-600g": {
+              "prom": "1.30",
+              "min": "1.01",
+              "max": "1.50"
+            },
+            "600-900g": {
+              "prom": "1.21",
+              "min": "1.00",
+              "max": "1.80"
+            },
+            "900g+": {
+              "prom": "1.19",
+              "min": "0.80",
+              "max": "1.50"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.14",
+              "min": "0.80",
+              "max": "1.65"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "65%",
+            "500-900": "23%",
+            "400-600": "6%",
+            "200-400": "3%"
+          },
+          "pagina": 59,
+          "img": "page-059.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 14.4M",
+          "volumen_importado": "12.7M kg",
+          "precio_prom_importacion": "USD 1.11/kg",
+          "precio_a_chile_rango": "USD 0.94-1.17/kg",
+          "exp_chile_pais_fob": "USD 12.7M",
+          "volumen_exportado": "10.9M kg",
+          "precio_pagado_a_chile": "USD 1.17/kg",
+          "part_en_exp_chilenas": "2.9%",
+          "cagr_5anios_exp": "-8.1% a.a.2",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (72% FOB, 32 env.)",
+          "ntm_anio": "2018",
+          "ntm_registradas": "15",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.09",
+              "min": "0.80",
+              "max": "1.30"
+            },
+            "400-600g": {
+              "prom": "1.30",
+              "min": "1.01",
+              "max": "1.50"
+            },
+            "600-900g": {
+              "prom": "1.21",
+              "min": "1.00",
+              "max": "1.80"
+            },
+            "900g+": {
+              "prom": "1.19",
+              "min": "0.80",
+              "max": "1.50"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.14",
+              "min": "0.80",
+              "max": "1.65"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "65%",
+            "500-900": "23%",
+            "400-600": "6%",
+            "200-400": "3%"
+          },
+          "pagina": 60,
+          "img": "page-060.webp"
+        }
+      },
+      "slug": "peru"
+    },
+    "EE.UU.": {
+      "pais": "EE.UU.",
+      "continente": "America",
+      "region": "America del Norte",
+      "poblacion": "340.1 M hab.",
+      "pbi": "USD 28751.0B",
+      "pbi_per_capita": "USD 84,534",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 32.8M",
+          "volumen_importado": "12.0M kg",
+          "precio_prom_importacion": "USD 2.45/kg",
+          "precio_a_chile_rango": "USD 1.06-1.09/kg",
+          "exp_chile_pais_fob": "USD 97.3K",
+          "volumen_exportado": "91.5K kg",
+          "precio_pagado_a_chile": "USD 1.06/kg5",
+          "part_en_exp_chilenas": "1.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% sobretasa 2026",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (79% FOB, 3 env.)",
+          "ntm_anio": "2018",
+          "ntm_registradas": "57",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.84",
+              "min": "0.78",
+              "max": "0.90"
+            },
+            "400-600g": {
+              "prom": "0.84",
+              "min": "0.84",
+              "max": "0.84"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.02",
+              "min": "0.79",
+              "max": "1.21"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.02",
+              "min": "0.83",
+              "max": "1.19"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "44%",
+            "500-900": "32%",
+            "900+": "21%",
+            "400-600": "3%"
+          },
+          "pagina": 61,
+          "img": "page-061.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 7.0M",
+          "volumen_importado": "2.7M kg",
+          "precio_prom_importacion": "USD 2.76/kg",
+          "precio_a_chile_rango": "USD 0.90-1.18/kg",
+          "exp_chile_pais_fob": "USD 540.0K",
+          "volumen_exportado": "598.4K kg",
+          "precio_pagado_a_chile": "USD 0.90/kg5",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "+38.0% a.a.",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% sobretasa 2026",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (59% FOB, 10 env.)",
+          "ntm_anio": "2018",
+          "ntm_registradas": "57",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.84",
+              "min": "0.78",
+              "max": "0.90"
+            },
+            "400-600g": {
+              "prom": "0.84",
+              "min": "0.84",
+              "max": "0.84"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.02",
+              "min": "0.79",
+              "max": "1.21"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.02",
+              "min": "0.83",
+              "max": "1.19"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "44%",
+            "500-900": "32%",
+            "900+": "21%",
+            "400-600": "3%"
+          },
+          "pagina": 62,
+          "img": "page-062.webp"
+        }
+      },
+      "slug": "eeuu"
+    },
+    "Uruguay": {
+      "pais": "Uruguay",
+      "continente": "America",
+      "region": "America del Sur",
+      "poblacion": "3.4 M hab.",
+      "pbi": "USD 65.3B",
+      "pbi_per_capita": "USD 19,250",
+      "cons_pescado_pc": "10.3 kg/año",
+      "cons_pelagicos_pc": "3.7 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 839",
+          "volumen_importado": "805 kg",
+          "precio_prom_importacion": "USD 1.04/kg",
+          "precio_a_chile_rango": "USD 0.77-0.77/kg",
+          "exp_chile_pais_fob": "USD 19.2K",
+          "volumen_exportado": "25.0K kg",
+          "precio_pagado_a_chile": "USD 0.77/kg",
+          "part_en_exp_chilenas": "0.6%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "9%",
+          "efectivo_chile": "0% (AAP.CE35/CE73)",
+          "trato": null,
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2025",
+          "ntm_registradas": "6",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 63,
+          "img": "page-063.webp"
+        }
+      },
+      "slug": "uruguay"
+    },
+    "China": {
+      "pais": "China",
+      "continente": "Asia",
+      "region": "Asia Oriental",
+      "poblacion": "1,409.0 M hab.",
+      "pbi": "USD 18743.8B",
+      "pbi_per_capita": "USD 13,303",
+      "cons_pescado_pc": "39.9 kg/año",
+      "cons_pelagicos_pc": "0.3 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 161.3M",
+          "volumen_importado": "71.6M kg",
+          "precio_prom_importacion": "USD 1.46/kg",
+          "precio_a_chile_rango": "USD 1.36-1.37/kg",
+          "exp_chile_pais_fob": "USD 178.8K",
+          "volumen_exportado": "130.4K kg",
+          "precio_pagado_a_chile": "USD 1.37/kg5",
+          "part_en_exp_chilenas": "1.8%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "7%",
+          "efectivo_chile": "0% (TLC Chile-China)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (100% FOB, 3 env.)",
+          "ntm_anio": "2016",
+          "ntm_registradas": "98",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.94",
+              "min": "0.86",
+              "max": "1.03"
+            },
+            "400-600g": {
+              "prom": "1.36",
+              "min": "1.08",
+              "max": "1.61"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.05",
+              "min": "0.92",
+              "max": "1.33"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.01",
+              "min": "0.93",
+              "max": "1.07"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "90%",
+            "500-900": "5%",
+            "400-600": "3%",
+            "200-400": "1%"
+          },
+          "pagina": 66,
+          "img": "page-066.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 17.4M",
+          "volumen_importado": "13.0M kg",
+          "precio_prom_importacion": "USD 1.51/kg",
+          "precio_a_chile_rango": "USD 0.90-1.16/kg",
+          "exp_chile_pais_fob": "USD 6.3M",
+          "volumen_exportado": "5.9M kg",
+          "precio_pagado_a_chile": "USD 1.07/kg5",
+          "part_en_exp_chilenas": "1.4%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "7%",
+          "efectivo_chile": "0% (TLC Chile-China)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (50% FOB, 20 env.)",
+          "ntm_anio": "2016",
+          "ntm_registradas": "98",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.94",
+              "min": "0.86",
+              "max": "1.03"
+            },
+            "400-600g": {
+              "prom": "1.36",
+              "min": "1.08",
+              "max": "1.61"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.05",
+              "min": "0.92",
+              "max": "1.33"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.01",
+              "min": "0.93",
+              "max": "1.07"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "90%",
+            "500-900": "5%",
+            "400-600": "3%",
+            "200-400": "1%"
+          },
+          "pagina": 67,
+          "img": "page-067.webp"
+        }
+      },
+      "slug": "china"
+    },
+    "Georgia": {
+      "pais": "Georgia",
+      "continente": "Asia",
+      "region": "Asia Central",
+      "poblacion": "3.7 M hab.",
+      "pbi": "USD 34.2B",
+      "pbi_per_capita": "USD 9,241",
+      "cons_pescado_pc": "10.7 kg/año",
+      "cons_pelagicos_pc": "5.9 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 7.6M",
+          "volumen_importado": "3.3M kg",
+          "precio_prom_importacion": "USD 1.77/kg",
+          "precio_a_chile_rango": "USD 1.17-1.17/kg",
+          "exp_chile_pais_fob": "USD 29.2K",
+          "volumen_exportado": "25.0K kg",
+          "precio_pagado_a_chile": "USD 1.17/kg",
+          "part_en_exp_chilenas": "6.7%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2025",
+          "ntm_registradas": "36",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.47",
+              "min": "1.47",
+              "max": "1.47"
+            },
+            "600-900g": {
+              "prom": "1.61",
+              "min": "1.61",
+              "max": "1.61"
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "58%"
+          },
+          "pagina": 68,
+          "img": "page-068.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 223.9K",
+          "volumen_importado": "126.6K kg",
+          "precio_prom_importacion": "USD 1.61/kg",
+          "precio_a_chile_rango": "USD 0.96-1.58/kg",
+          "exp_chile_pais_fob": "USD 105.7K",
+          "volumen_exportado": "71.0K kg",
+          "precio_pagado_a_chile": "USD 1.49/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "+20.7% a.a.",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (100%, 3 env.)",
+          "ntm_anio": "2025",
+          "ntm_registradas": "36",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.47",
+              "min": "1.47",
+              "max": "1.47"
+            },
+            "600-900g": {
+              "prom": "1.61",
+              "min": "1.61",
+              "max": "1.61"
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "58%"
+          },
+          "pagina": 69,
+          "img": "page-069.webp"
+        }
+      },
+      "slug": "georgia"
+    },
+    "Japón": {
+      "pais": "Japón",
+      "continente": "Asia",
+      "region": "Asia Oriental",
+      "poblacion": "124.0 M hab.",
+      "pbi": "USD 4027.6B",
+      "pbi_per_capita": "USD 32,487",
+      "cons_pescado_pc": "44.4 kg/año",
+      "cons_pelagicos_pc": "12.7 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 23.8M",
+          "volumen_importado": "12.8M kg",
+          "precio_prom_importacion": "USD 1.92/kg",
+          "precio_a_chile_rango": "USD 0.82-1.60/kg",
+          "exp_chile_pais_fob": "USD 192.1K",
+          "volumen_exportado": "121.6K kg",
+          "precio_pagado_a_chile": "USD 1.58/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "5% (CPTPP)",
+          "trato": null,
+          "puerto_embarque": "Lirquen (88% FOB, 1 env.)",
+          "ntm_anio": "2016",
+          "ntm_registradas": "11",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "1.74",
+              "min": "1.65",
+              "max": "1.78"
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.94",
+              "min": "0.94",
+              "max": "0.94"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "20%"
+          },
+          "pagina": 70,
+          "img": "page-070.webp"
+        }
+      },
+      "slug": "japon"
+    },
+    "Kazajistán": {
+      "pais": "Kazajistán",
+      "continente": "Asia",
+      "region": "Asia Central",
+      "poblacion": "20.3 M hab.",
+      "pbi": "USD 261.8B",
+      "pbi_per_capita": "USD 12,879",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 17.8K",
+          "volumen_importado": "23.5K kg",
+          "precio_prom_importacion": "USD 1.41/kg",
+          "precio_a_chile_rango": "USD 0.99-0.99/kg",
+          "exp_chile_pais_fob": "USD 19.4K",
+          "volumen_exportado": "19.5K kg",
+          "precio_pagado_a_chile": "USD 0.99/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2017",
+          "ntm_registradas": "38",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 71,
+          "img": "page-071.webp"
+        }
+      },
+      "slug": "kazajistan"
+    },
+    "Corea del Sur": {
+      "pais": "Corea del Sur",
+      "continente": "Asia",
+      "region": "Asia Oriental",
+      "poblacion": "51.8 M hab.",
+      "pbi": "USD 1875.4B",
+      "pbi_per_capita": "USD 36,239",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 90.2M",
+          "volumen_importado": "38.9M kg",
+          "precio_prom_importacion": "USD 1.97/kg",
+          "precio_a_chile_rango": "USD 1.22-1.22/kg",
+          "exp_chile_pais_fob": "USD 162.4K",
+          "volumen_exportado": "133.0K kg",
+          "precio_pagado_a_chile": "USD 1.22/kg",
+          "part_en_exp_chilenas": "1.7%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "0% (TLC Chile-Corea)",
+          "trato": null,
+          "puerto_embarque": "Coronel (48% FOB, 2 env.)",
+          "ntm_anio": "2016",
+          "ntm_registradas": "49",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.66",
+              "min": "1.66",
+              "max": "1.66"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.25",
+              "min": "1.05",
+              "max": "1.40"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.19",
+              "min": "1.19",
+              "max": "1.19"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "47%",
+            "900+": "44%",
+            "400-600": "9%"
+          },
+          "pagina": 72,
+          "img": "page-072.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 2.8M",
+          "volumen_importado": "2.3M kg",
+          "precio_prom_importacion": "USD 1.38/kg",
+          "precio_a_chile_rango": "USD 1.31-1.31/kg",
+          "exp_chile_pais_fob": "USD 31.1K",
+          "volumen_exportado": "23.8K kg",
+          "precio_pagado_a_chile": "USD 1.31/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "0% (TLC Chile-Corea)",
+          "trato": null,
+          "puerto_embarque": "Coronel (100% FOB, 2 env.)",
+          "ntm_anio": "2016",
+          "ntm_registradas": "46",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.66",
+              "min": "1.66",
+              "max": "1.66"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.25",
+              "min": "1.05",
+              "max": "1.40"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.19",
+              "min": "1.19",
+              "max": "1.19"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "47%",
+            "900+": "44%",
+            "400-600": "9%"
+          },
+          "pagina": 73,
+          "img": "page-073.webp"
+        }
+      },
+      "slug": "corea-del-sur"
+    },
+    "Moldavia": {
+      "pais": "Moldavia",
+      "continente": "Asia",
+      "region": "Asia Central",
+      "poblacion": "2.4 M hab.",
+      "pbi": "USD 18.2B",
+      "pbi_per_capita": "USD 7,576",
+      "cons_pescado_pc": "15.6 kg/año",
+      "cons_pelagicos_pc": "6.0 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 12.0M",
+          "volumen_importado": "4.4M kg",
+          "precio_prom_importacion": "USD 2.12/kg",
+          "precio_a_chile_rango": "USD 1.15-1.15/kg",
+          "exp_chile_pais_fob": "USD 28.8K",
+          "volumen_exportado": "25.0K kg",
+          "precio_pagado_a_chile": "USD 1.15/kg",
+          "part_en_exp_chilenas": "0.3%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (100%, 1 env.)",
+          "ntm_anio": "2022",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.50",
+              "min": "1.47",
+              "max": "1.55"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.15",
+              "min": "1.15",
+              "max": "1.15"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "68%",
+            "900+": "32%"
+          },
+          "pagina": 74,
+          "img": "page-074.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 163.3K",
+          "volumen_importado": "79.0K kg",
+          "precio_prom_importacion": "USD 1.94/kg",
+          "precio_a_chile_rango": "USD 1.22-1.67/kg",
+          "exp_chile_pais_fob": "USD 245.7K",
+          "volumen_exportado": "150.8K kg",
+          "precio_pagado_a_chile": "USD 1.63/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "+24.4% a.a.",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (51% FOB, 3 env.)",
+          "ntm_anio": "2022",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.50",
+              "min": "1.47",
+              "max": "1.55"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.15",
+              "min": "1.15",
+              "max": "1.15"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "68%",
+            "900+": "32%"
+          },
+          "pagina": 75,
+          "img": "page-075.webp"
+        }
+      },
+      "slug": "moldavia"
+    },
+    "Singapur": {
+      "pais": "Singapur",
+      "continente": "Asia",
+      "region": "Asia Sudeste",
+      "poblacion": "5.6 M hab.",
+      "pbi": "USD 343.7B",
+      "pbi_per_capita": "USD 61,236",
+      "cons_pescado_pc": "47.4 kg/año",
+      "cons_pelagicos_pc": "9.3 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 5.5M",
+          "volumen_importado": "2.4M kg",
+          "precio_prom_importacion": "USD 2.12/kg",
+          "precio_a_chile_rango": "USD 0.92-0.92/kg",
+          "exp_chile_pais_fob": "USD 3.7K",
+          "volumen_exportado": "4.0K kg",
+          "precio_pagado_a_chile": "USD 0.92/kg",
+          "part_en_exp_chilenas": "0.3%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2018",
+          "ntm_registradas": "17",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 76,
+          "img": "page-076.webp"
+        }
+      },
+      "slug": "singapur"
+    },
+    "Sri Lanka": {
+      "pais": "Sri Lanka",
+      "continente": "Asia",
+      "region": "Asia Sudeste",
+      "poblacion": "21.9 M hab.",
+      "pbi": "USD 99.0B",
+      "pbi_per_capita": "USD 4,516",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 318.9K",
+          "volumen_importado": "269.4K kg",
+          "precio_prom_importacion": "USD 1.01/kg",
+          "precio_a_chile_rango": "USD 0.91-1.19/kg",
+          "exp_chile_pais_fob": "USD 5.1M",
+          "volumen_exportado": "5.3M kg",
+          "precio_pagado_a_chile": "USD 0.97/kg4",
+          "part_en_exp_chilenas": "1.2%",
+          "cagr_5anios_exp": "+60.1% a.a.",
+          "arancel_mfn": "20%",
+          "efectivo_chile": "20%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Lirquen (65% FOB, 9 env.)",
+          "ntm_anio": "2016",
+          "ntm_registradas": "36",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.91",
+              "min": "0.86",
+              "max": "1.08"
+            },
+            "400-600g": {
+              "prom": "0.88",
+              "min": "0.87",
+              "max": "0.88"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.19",
+              "min": "1.19",
+              "max": "1.19"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.19",
+              "min": "1.19",
+              "max": "1.19"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "82%",
+            "400-600": "10%",
+            "500-900": "4%",
+            "900+": "4%"
+          },
+          "pagina": 77,
+          "img": "page-077.webp"
+        }
+      },
+      "slug": "sri-lanka"
+    },
+    "Tailandia": {
+      "pais": "Tailandia",
+      "continente": "Asia",
+      "region": "Asia Sudeste",
+      "poblacion": "71.7 M hab.",
+      "pbi": "USD 515.9B",
+      "pbi_per_capita": "USD 7,195",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 344.8K",
+          "volumen_importado": "243.3K kg",
+          "precio_prom_importacion": "USD 1.10/kg",
+          "precio_a_chile_rango": "USD 0.68-1.05/kg",
+          "exp_chile_pais_fob": "USD 1.4K",
+          "volumen_exportado": "1.9K kg",
+          "precio_pagado_a_chile": "USD 0.78/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Aerop. A.M. Benitez (100%, 1 env.)",
+          "ntm_anio": "2021",
+          "ntm_registradas": "66",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 78,
+          "img": "page-078.webp"
+        }
+      },
+      "slug": "tailandia"
+    },
+    "Türkiye": {
+      "pais": "Türkiye",
+      "continente": "Asia",
+      "region": "Medio Oriente",
+      "poblacion": "85.0 M hab.",
+      "pbi": "USD 926.1B",
+      "pbi_per_capita": "USD 10,898",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 50.5M",
+          "volumen_importado": "34.9M kg",
+          "precio_prom_importacion": "USD 1.51/kg",
+          "precio_a_chile_rango": "USD 1.16-1.16/kg",
+          "exp_chile_pais_fob": "USD 133.0K",
+          "volumen_exportado": "115.1K kg",
+          "precio_pagado_a_chile": "USD 1.16/kg",
+          "part_en_exp_chilenas": "49.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "30% (TRQ)",
+          "efectivo_chile": "30% (TRQ)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2022",
+          "ntm_registradas": "35",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 79,
+          "img": "page-079.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 106.6K",
+          "volumen_importado": "39.8K kg",
+          "precio_prom_importacion": "USD 1.58/kg",
+          "precio_a_chile_rango": "USD 1.14-1.14/kg",
+          "exp_chile_pais_fob": "USD 57.1K",
+          "volumen_exportado": "50.0K kg",
+          "precio_pagado_a_chile": "USD 1.14/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "30% (TRQ)",
+          "efectivo_chile": "30% (TRQ)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2022",
+          "ntm_registradas": "31",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 80,
+          "img": "page-080.webp"
+        }
+      },
+      "slug": "turkiye"
+    },
+    "Emiratos Árabes": {
+      "pais": "Emiratos Árabes",
+      "continente": "Asia",
+      "region": "Medio Oriente",
+      "poblacion": "11.0 M hab.",
+      "pbi": "USD 552.3B",
+      "pbi_per_capita": "USD 50,274",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 513.9K",
+          "volumen_importado": "361.8K kg",
+          "precio_prom_importacion": "USD 3.08/kg",
+          "precio_a_chile_rango": "USD 0.93-0.93/kg",
+          "exp_chile_pais_fob": "USD 266.5K",
+          "volumen_exportado": "286.0K kg",
+          "precio_pagado_a_chile": "USD 0.93/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "5%",
+          "efectivo_chile": "5%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2020",
+          "ntm_registradas": "104",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 81,
+          "img": "page-081.webp"
+        }
+      },
+      "slug": "emiratos-arabes"
+    },
+    "Vietnam": {
+      "pais": "Vietnam",
+      "continente": "Asia",
+      "region": "Asia Oriental",
+      "poblacion": "101.0 M hab.",
+      "pbi": "USD 476.4B",
+      "pbi_per_capita": "USD 4,717",
+      "cons_pescado_pc": "39.6 kg/año",
+      "cons_pelagicos_pc": "2.8 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 158.7M",
+          "volumen_importado": "79.6M kg",
+          "precio_prom_importacion": "USD 1.60/kg",
+          "precio_a_chile_rango": "USD 0.92-1.26/kg",
+          "exp_chile_pais_fob": "USD 892.2K",
+          "volumen_exportado": "710.9K kg",
+          "precio_pagado_a_chile": "USD 1.26/kg",
+          "part_en_exp_chilenas": "9.1%",
+          "cagr_5anios_exp": "N/D6",
+          "arancel_mfn": "13%",
+          "efectivo_chile": "5% (pref. Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (49% FOB, 5 env.)",
+          "ntm_anio": "2025",
+          "ntm_registradas": "51",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.07",
+              "min": "1.07",
+              "max": "1.07"
+            },
+            "400-600g": {
+              "prom": "1.42",
+              "min": "1.28",
+              "max": "1.61"
+            },
+            "600-900g": {
+              "prom": "1.80",
+              "min": "1.79",
+              "max": "1.80"
+            },
+            "900g+": {
+              "prom": "1.11",
+              "min": "0.85",
+              "max": "2.19"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.08",
+              "min": "0.95",
+              "max": "1.25"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "65%",
+            "500-900": "23%",
+            "400-600": "7%",
+            "200-400": "1%"
+          },
+          "pagina": 82,
+          "img": "page-082.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 17.5M",
+          "volumen_importado": "13.4M kg",
+          "precio_prom_importacion": "USD 1.36/kg",
+          "precio_a_chile_rango": "USD 0.93-1.21/kg",
+          "exp_chile_pais_fob": "USD 5.6M",
+          "volumen_exportado": "5.0M kg",
+          "precio_pagado_a_chile": "USD 1.11/kg",
+          "part_en_exp_chilenas": "1.3%",
+          "cagr_5anios_exp": "+84.7% a.a.6",
+          "arancel_mfn": "10%",
+          "efectivo_chile": "5% (pref. Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (75% FOB, 25 env.)",
+          "ntm_anio": "2025",
+          "ntm_registradas": "51",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.07",
+              "min": "1.07",
+              "max": "1.07"
+            },
+            "400-600g": {
+              "prom": "1.42",
+              "min": "1.28",
+              "max": "1.61"
+            },
+            "600-900g": {
+              "prom": "1.80",
+              "min": "1.79",
+              "max": "1.80"
+            },
+            "900g+": {
+              "prom": "1.11",
+              "min": "0.85",
+              "max": "2.19"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.08",
+              "min": "0.95",
+              "max": "1.25"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "65%",
+            "500-900": "23%",
+            "400-600": "7%",
+            "200-400": "1%"
+          },
+          "pagina": 83,
+          "img": "page-083.webp"
+        }
+      },
+      "slug": "vietnam"
+    },
+    "Bielorrusia": {
+      "pais": "Bielorrusia",
+      "continente": "Europa",
+      "region": "Europa del Este",
+      "poblacion": "9.1 M hab.",
+      "pbi": "USD 76.0B",
+      "pbi_per_capita": "USD 8,318",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 274.2K",
+          "volumen_importado": "93.1K kg",
+          "precio_prom_importacion": "USD 2.10/kg",
+          "precio_a_chile_rango": "USD 1.21-1.21/kg",
+          "exp_chile_pais_fob": "USD 31.5K",
+          "volumen_exportado": "26.0K kg",
+          "precio_pagado_a_chile": "USD 1.21/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "7% (General, mín. 0.03 /kg)",
+          "efectivo_chile": "7% (General)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (100%, 1 env.)",
+          "ntm_anio": "2017",
+          "ntm_registradas": "38",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.21",
+              "min": "1.21",
+              "max": "1.21"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "100%"
+          },
+          "pagina": 86,
+          "img": "page-086.webp"
+        }
+      },
+      "slug": "bielorrusia"
+    },
+    "Bélgica": {
+      "pais": "Bélgica",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "11.9 M hab.",
+      "pbi": "USD 671.4B",
+      "pbi_per_capita": "USD 56,615",
+      "cons_pescado_pc": "24.4 kg/año",
+      "cons_pelagicos_pc": "4.3 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 765.0K",
+          "volumen_importado": "223.2K kg",
+          "precio_prom_importacion": "USD 1.97/kg",
+          "precio_a_chile_rango": "USD 0.85-1.19/kg",
+          "exp_chile_pais_fob": "USD 298.9K",
+          "volumen_exportado": "254.3K kg",
+          "precio_pagado_a_chile": "USD 1.18/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "-24.1% a.a.",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (79% FOB, 7 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.19",
+              "min": "1.13",
+              "max": "1.24"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.17",
+              "min": "0.99",
+              "max": "1.24"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "94%",
+            "200-400": "6%"
+          },
+          "pagina": 87,
+          "img": "page-087.webp"
+        }
+      },
+      "slug": "belgica"
+    },
+    "Bulgaria": {
+      "pais": "Bulgaria",
+      "continente": "Europa",
+      "region": "Europa del Este",
+      "poblacion": "6.6 M hab.",
+      "pbi": "USD 68.5B",
+      "pbi_per_capita": "USD 10,354",
+      "cons_pescado_pc": "7.5 kg/año",
+      "cons_pelagicos_pc": "2.9 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 18.6M",
+          "volumen_importado": "8.2M kg",
+          "precio_prom_importacion": "USD 1.70/kg",
+          "precio_a_chile_rango": "USD 0.90-0.96/kg",
+          "exp_chile_pais_fob": "USD 180.2K",
+          "volumen_exportado": "199.3K kg",
+          "precio_pagado_a_chile": "USD 0.90/kg",
+          "part_en_exp_chilenas": "9.6%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 88,
+          "img": "page-088.webp"
+        }
+      },
+      "slug": "bulgaria"
+    },
+    "Dinamarca": {
+      "pais": "Dinamarca",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "6.0 M hab.",
+      "pbi": "USD 424.5B",
+      "pbi_per_capita": "USD 71,026",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 218.9K",
+          "volumen_importado": "140.2K kg",
+          "precio_prom_importacion": "USD 1.59/kg",
+          "precio_a_chile_rango": "USD 0.99-1.76/kg",
+          "exp_chile_pais_fob": "USD 45.8K",
+          "volumen_exportado": "26.0K kg",
+          "precio_pagado_a_chile": "USD 1.76/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (100%, 1 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 89,
+          "img": "page-089.webp"
+        }
+      },
+      "slug": "dinamarca"
+    },
+    "Finlandia": {
+      "pais": "Finlandia",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "5.6 M hab.",
+      "pbi": "USD 295.0B",
+      "pbi_per_capita": "USD 52,834",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 58.9K",
+          "volumen_importado": "15.7K kg",
+          "precio_prom_importacion": "USD 3.34/kg",
+          "precio_a_chile_rango": "USD 1.19-1.19/kg",
+          "exp_chile_pais_fob": "USD 61.6K",
+          "volumen_exportado": "52.0K kg",
+          "precio_pagado_a_chile": "USD 1.19/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 90,
+          "img": "page-090.webp"
+        }
+      },
+      "slug": "finlandia"
+    },
+    "Francia": {
+      "pais": "Francia",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "68.6 M hab.",
+      "pbi": "USD 3160.4B",
+      "pbi_per_capita": "USD 46,103",
+      "cons_pescado_pc": "32.2 kg/año",
+      "cons_pelagicos_pc": "7.0 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 41.7M",
+          "volumen_importado": "16.7M kg",
+          "precio_prom_importacion": "USD 2.09/kg",
+          "precio_a_chile_rango": "USD 1.35-1.35/kg",
+          "exp_chile_pais_fob": "USD 20.2K",
+          "volumen_exportado": "15.0K kg",
+          "precio_pagado_a_chile": "USD 1.35/kg",
+          "part_en_exp_chilenas": "0.6%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.97",
+              "min": "0.94",
+              "max": "0.98"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.03",
+              "min": "0.91",
+              "max": "1.35"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.05",
+              "min": "0.83",
+              "max": "1.44"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "62%",
+            "900+": "36%",
+            "200-400": "2%"
+          },
+          "pagina": 91,
+          "img": "page-091.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 6.6M",
+          "volumen_importado": "4.1M kg",
+          "precio_prom_importacion": "USD 1.61/kg",
+          "precio_a_chile_rango": "USD 0.97-1.12/kg",
+          "exp_chile_pais_fob": "USD 1.8M",
+          "volumen_exportado": "1.7M kg",
+          "precio_pagado_a_chile": "USD 1.03/kg",
+          "part_en_exp_chilenas": "0.4%",
+          "cagr_5anios_exp": "+27.0% a.a.",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (70% FOB, 23 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.97",
+              "min": "0.94",
+              "max": "0.98"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.03",
+              "min": "0.91",
+              "max": "1.35"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.05",
+              "min": "0.83",
+              "max": "1.44"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "62%",
+            "900+": "36%",
+            "200-400": "2%"
+          },
+          "pagina": 92,
+          "img": "page-092.webp"
+        }
+      },
+      "slug": "francia"
+    },
+    "Alemania": {
+      "pais": "Alemania",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "83.5 M hab.",
+      "pbi": "USD 4685.6B",
+      "pbi_per_capita": "USD 56,104",
+      "cons_pescado_pc": "13.2 kg/año",
+      "cons_pelagicos_pc": "2.5 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 12.2M",
+          "volumen_importado": "6.0M kg",
+          "precio_prom_importacion": "USD 1.82/kg",
+          "precio_a_chile_rango": "USD 1.02-1.38/kg",
+          "exp_chile_pais_fob": "USD 107.5K",
+          "volumen_exportado": "78.0K kg",
+          "precio_pagado_a_chile": "USD 1.38/kg5",
+          "part_en_exp_chilenas": "1.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (100%, 3 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.14",
+              "min": "1.14",
+              "max": "1.14"
+            },
+            "400-600g": {
+              "prom": "1.38",
+              "min": "1.33",
+              "max": "1.42"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.02",
+              "min": "1.02",
+              "max": "1.02"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.05",
+              "min": "1.05",
+              "max": "1.05"
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "59%",
+            "500-900": "20%",
+            "900+": "20%",
+            "200-400": "1%"
+          },
+          "pagina": 93,
+          "img": "page-093.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 357.0K",
+          "volumen_importado": "89.9K kg",
+          "precio_prom_importacion": "USD 1.38/kg",
+          "precio_a_chile_rango": "USD 0.88-1.40/kg",
+          "exp_chile_pais_fob": "USD 143.4K",
+          "volumen_exportado": "102.4K kg",
+          "precio_pagado_a_chile": "USD 1.40/kg5",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "+45.3% a.a.",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (82% FOB, 4 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.14",
+              "min": "1.14",
+              "max": "1.14"
+            },
+            "400-600g": {
+              "prom": "1.38",
+              "min": "1.33",
+              "max": "1.42"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.02",
+              "min": "1.02",
+              "max": "1.02"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.05",
+              "min": "1.05",
+              "max": "1.05"
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "59%",
+            "500-900": "20%",
+            "900+": "20%",
+            "200-400": "1%"
+          },
+          "pagina": 94,
+          "img": "page-094.webp"
+        }
+      },
+      "slug": "alemania"
+    },
+    "Irlanda": {
+      "pais": "Irlanda",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "5.3 M hab.",
+      "pbi": "USD 567.4B",
+      "pbi_per_capita": "USD 106,819",
+      "cons_pescado_pc": "18.7 kg/año",
+      "cons_pelagicos_pc": "4.9 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 44.2K",
+          "volumen_importado": "0 kg",
+          "precio_prom_importacion": "USD 3.15/kg",
+          "precio_a_chile_rango": "USD 0.81-1.10/kg",
+          "exp_chile_pais_fob": "USD 18.8K",
+          "volumen_exportado": "17.0K kg",
+          "precio_pagado_a_chile": "USD 1.10/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "-8.1% a.a.",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 95,
+          "img": "page-095.webp"
+        }
+      },
+      "slug": "irlanda"
+    },
+    "Italia": {
+      "pais": "Italia",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "59.0 M hab.",
+      "pbi": "USD 2380.8B",
+      "pbi_per_capita": "USD 40,385",
+      "cons_pescado_pc": "29.3 kg/año",
+      "cons_pelagicos_pc": "5.1 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 6.5M",
+          "volumen_importado": "2.9M kg",
+          "precio_prom_importacion": "USD 1.90/kg",
+          "precio_a_chile_rango": "USD 0.97-1.24/kg",
+          "exp_chile_pais_fob": "USD 33.5K",
+          "volumen_exportado": "27.0K kg",
+          "precio_pagado_a_chile": "USD 1.24/kg",
+          "part_en_exp_chilenas": "0.9%",
+          "cagr_5anios_exp": "-7.9% a.a.",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "0.98",
+              "min": "0.93",
+              "max": "1.02"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.00",
+              "min": "0.88",
+              "max": "1.12"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "71%",
+            "900+": "29%"
+          },
+          "pagina": 96,
+          "img": "page-096.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 1.2M",
+          "volumen_importado": "555.2K kg",
+          "precio_prom_importacion": "USD 1.68/kg",
+          "precio_a_chile_rango": "USD 0.85-1.10/kg",
+          "exp_chile_pais_fob": "USD 471.6K",
+          "volumen_exportado": "476.3K kg",
+          "precio_pagado_a_chile": "USD 0.99/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "+17.1% a.a.",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (54% FOB, 10 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "0.98",
+              "min": "0.93",
+              "max": "1.02"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.00",
+              "min": "0.88",
+              "max": "1.12"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "71%",
+            "900+": "29%"
+          },
+          "pagina": 97,
+          "img": "page-097.webp"
+        }
+      },
+      "slug": "italia"
+    },
+    "Letonia": {
+      "pais": "Letonia",
+      "continente": "Europa",
+      "region": "Europa del Este",
+      "poblacion": "1.9 M hab.",
+      "pbi": "USD 43.7B",
+      "pbi_per_capita": "USD 23,409",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 18.7M",
+          "volumen_importado": "8.1M kg",
+          "precio_prom_importacion": "USD 1.90/kg",
+          "precio_a_chile_rango": "USD 1.16-1.16/kg",
+          "exp_chile_pais_fob": "USD 3.5K",
+          "volumen_exportado": "3.0K kg",
+          "precio_pagado_a_chile": "USD 1.16/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D2",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (100%, 1 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.61",
+              "min": "1.61",
+              "max": "1.61"
+            },
+            "400-600g": {
+              "prom": "1.44",
+              "min": "1.09",
+              "max": "1.61"
+            },
+            "600-900g": {
+              "prom": "1.76",
+              "min": "1.76",
+              "max": "1.76"
+            },
+            "900g+": {
+              "prom": "1.16",
+              "min": "1.16",
+              "max": "1.16"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.03",
+              "min": "1.03",
+              "max": "1.03"
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "59%",
+            "500-900": "15%",
+            "200-400": "9%",
+            "900+": "1%"
+          },
+          "pagina": 98,
+          "img": "page-098.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 105.1K",
+          "volumen_importado": "82.3K kg",
+          "precio_prom_importacion": "USD 1.50/kg",
+          "precio_a_chile_rango": "USD 1.22-1.51/kg",
+          "exp_chile_pais_fob": "USD 455.0K",
+          "volumen_exportado": "301.6K kg",
+          "precio_pagado_a_chile": "USD 1.51/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "N/D2",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (94% FOB, 4 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.61",
+              "min": "1.61",
+              "max": "1.61"
+            },
+            "400-600g": {
+              "prom": "1.44",
+              "min": "1.09",
+              "max": "1.61"
+            },
+            "600-900g": {
+              "prom": "1.76",
+              "min": "1.76",
+              "max": "1.76"
+            },
+            "900g+": {
+              "prom": "1.16",
+              "min": "1.16",
+              "max": "1.16"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.03",
+              "min": "1.03",
+              "max": "1.03"
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "59%",
+            "500-900": "15%",
+            "200-400": "9%",
+            "900+": "1%"
+          },
+          "pagina": 99,
+          "img": "page-099.webp"
+        }
+      },
+      "slug": "letonia"
+    },
+    "Lituania": {
+      "pais": "Lituania",
+      "continente": "Europa",
+      "region": "Europa del Este",
+      "poblacion": "2.9 M hab.",
+      "pbi": "USD 84.9B",
+      "pbi_per_capita": "USD 29,384",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 15.2M",
+          "volumen_importado": "6.5M kg",
+          "precio_prom_importacion": "USD 1.82/kg",
+          "precio_a_chile_rango": "USD 1.13-1.21/kg",
+          "exp_chile_pais_fob": "USD 190.4K",
+          "volumen_exportado": "156.9K kg",
+          "precio_pagado_a_chile": "USD 1.21/kg5",
+          "part_en_exp_chilenas": "1.9%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (79% FOB, 2 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.13",
+              "min": "1.11",
+              "max": "1.16"
+            },
+            "400-600g": {
+              "prom": "2.00",
+              "min": "2.00",
+              "max": "2.00"
+            },
+            "600-900g": {
+              "prom": "1.80",
+              "min": "1.76",
+              "max": "1.84"
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.16",
+              "min": "1.00",
+              "max": "1.41"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "37%",
+            "500-900": "31%",
+            "400-600": "9%"
+          },
+          "pagina": 100,
+          "img": "page-100.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 59.3K",
+          "volumen_importado": "33.0K kg",
+          "precio_prom_importacion": "USD 1.71/kg",
+          "precio_a_chile_rango": "USD 1.54-1.65/kg",
+          "exp_chile_pais_fob": "USD 438.2K",
+          "volumen_exportado": "264.9K kg",
+          "precio_pagado_a_chile": "USD 1.65/kg5",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "Coronel (60% FOB, 6 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.13",
+              "min": "1.11",
+              "max": "1.16"
+            },
+            "400-600g": {
+              "prom": "2.00",
+              "min": "2.00",
+              "max": "2.00"
+            },
+            "600-900g": {
+              "prom": "1.80",
+              "min": "1.76",
+              "max": "1.84"
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.16",
+              "min": "1.00",
+              "max": "1.41"
+            }
+          },
+          "dist_volumen_calibre": {
+            "200-400": "37%",
+            "500-900": "31%",
+            "400-600": "9%"
+          },
+          "pagina": 101,
+          "img": "page-101.webp"
+        }
+      },
+      "slug": "lituania"
+    },
+    "Malta": {
+      "pais": "Malta",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "0.5 M hab.",
+      "pbi": "USD 16.3B",
+      "pbi_per_capita": "USD 32,422",
+      "cons_pescado_pc": "32.1 kg/año",
+      "cons_pelagicos_pc": "17.5 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 67.4K",
+          "volumen_importado": "33.8K kg",
+          "precio_prom_importacion": "USD 1.10/kg",
+          "precio_a_chile_rango": "USD 0.85-0.85/kg",
+          "exp_chile_pais_fob": "USD 44.2K",
+          "volumen_exportado": "52.0K kg",
+          "precio_pagado_a_chile": "USD 0.85/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 102,
+          "img": "page-102.webp"
+        }
+      },
+      "slug": "malta"
+    },
+    "Países Bajos": {
+      "pais": "Países Bajos",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "18.0 M hab.",
+      "pbi": "USD 1214.9B",
+      "pbi_per_capita": "USD 67,520",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 66.8M",
+          "volumen_importado": "55.5M kg",
+          "precio_prom_importacion": "USD 1.03/kg",
+          "precio_a_chile_rango": "USD 1.10-1.39/kg",
+          "exp_chile_pais_fob": "USD 28.6K",
+          "volumen_exportado": "26.0K kg",
+          "precio_pagado_a_chile": "USD 1.10/kg",
+          "part_en_exp_chilenas": "0.3%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (100%, 1 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.06",
+              "min": "1.00",
+              "max": "1.12"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.05",
+              "min": "0.95",
+              "max": "1.15"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.08",
+              "min": "0.90",
+              "max": "1.41"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "51%",
+            "900+": "43%",
+            "200-400": "6%"
+          },
+          "pagina": 103,
+          "img": "page-103.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 19.7M",
+          "volumen_importado": "16.1M kg",
+          "precio_prom_importacion": "USD 0.88/kg",
+          "precio_a_chile_rango": "USD 0.84-1.12/kg",
+          "exp_chile_pais_fob": "USD 1.2M",
+          "volumen_exportado": "1.1M kg",
+          "precio_pagado_a_chile": "USD 1.05/kg",
+          "part_en_exp_chilenas": "0.3%",
+          "cagr_5anios_exp": "+11.6% a.a.",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (72% FOB, 22 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.06",
+              "min": "1.00",
+              "max": "1.12"
+            },
+            "400-600g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.05",
+              "min": "0.95",
+              "max": "1.15"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.08",
+              "min": "0.90",
+              "max": "1.41"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "51%",
+            "900+": "43%",
+            "200-400": "6%"
+          },
+          "pagina": 104,
+          "img": "page-104.webp"
+        }
+      },
+      "slug": "paises-bajos"
+    },
+    "Polonia": {
+      "pais": "Polonia",
+      "continente": "Europa",
+      "region": "Europa del Este",
+      "poblacion": "36.6 M hab.",
+      "pbi": "USD 917.8B",
+      "pbi_per_capita": "USD 25,104",
+      "cons_pescado_pc": "11.6 kg/año",
+      "cons_pelagicos_pc": "5.7 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 130.9K",
+          "volumen_importado": "84.6K kg",
+          "precio_prom_importacion": "USD 1.55/kg",
+          "precio_a_chile_rango": "USD 1.24-1.53/kg",
+          "exp_chile_pais_fob": "USD 234.1K",
+          "volumen_exportado": "152.6K kg",
+          "precio_pagado_a_chile": "USD 1.53/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "+1.3% a.a.",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (85% FOB, 6 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.11",
+              "min": "1.11",
+              "max": "1.11"
+            },
+            "400-600g": {
+              "prom": "1.67",
+              "min": "1.67",
+              "max": "1.67"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.00",
+              "min": "1.00",
+              "max": "1.00"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "45%",
+            "400-600": "45%",
+            "200-400": "10%"
+          },
+          "pagina": 105,
+          "img": "page-105.webp"
+        }
+      },
+      "slug": "polonia"
+    },
+    "Portugal": {
+      "pais": "Portugal",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "10.7 M hab.",
+      "pbi": "USD 313.3B",
+      "pbi_per_capita": "USD 29,292",
+      "cons_pescado_pc": "59.4 kg/año",
+      "cons_pelagicos_pc": "5.8 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 14.3M",
+          "volumen_importado": "8.1M kg",
+          "precio_prom_importacion": "USD 1.49/kg",
+          "precio_a_chile_rango": "USD 0.62-1.47/kg",
+          "exp_chile_pais_fob": "USD 262.0K",
+          "volumen_exportado": "178.0K kg",
+          "precio_pagado_a_chile": "USD 1.47/kg",
+          "part_en_exp_chilenas": "2.7%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (70% FOB, 4 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.39",
+              "min": "1.23",
+              "max": "1.47"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.23",
+              "min": "1.03",
+              "max": "1.65"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.40",
+              "min": "1.24",
+              "max": "1.61"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "44%",
+            "400-600": "43%",
+            "500-900": "13%"
+          },
+          "pagina": 106,
+          "img": "page-106.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 3.2M",
+          "volumen_importado": "1.7M kg",
+          "precio_prom_importacion": "USD 1.43/kg",
+          "precio_a_chile_rango": "USD 0.87-1.19/kg",
+          "exp_chile_pais_fob": "USD 315.0K",
+          "volumen_exportado": "265.2K kg",
+          "precio_pagado_a_chile": "USD 1.19/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "+9.7% a.a.",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (66% FOB, 7 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.39",
+              "min": "1.23",
+              "max": "1.47"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.23",
+              "min": "1.03",
+              "max": "1.65"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.40",
+              "min": "1.24",
+              "max": "1.61"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "44%",
+            "400-600": "43%",
+            "500-900": "13%"
+          },
+          "pagina": 107,
+          "img": "page-107.webp"
+        }
+      },
+      "slug": "portugal"
+    },
+    "Rumania": {
+      "pais": "Rumania",
+      "continente": "Europa",
+      "region": "Europa del Este",
+      "poblacion": "19.1 M hab.",
+      "pbi": "USD 382.6B",
+      "pbi_per_capita": "USD 20,080",
+      "cons_pescado_pc": "N/D",
+      "cons_pelagicos_pc": "N/D",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 36.0M",
+          "volumen_importado": "15.9M kg",
+          "precio_prom_importacion": "USD 1.71/kg",
+          "precio_a_chile_rango": "USD 1.09-1.09/kg",
+          "exp_chile_pais_fob": "USD 22.4K",
+          "volumen_exportado": "20.5K kg",
+          "precio_pagado_a_chile": "USD 1.09/kg",
+          "part_en_exp_chilenas": "0.2%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (100%, 1 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.49",
+              "min": "1.43",
+              "max": "1.54"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.09",
+              "min": "1.09",
+              "max": "1.09"
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "59%",
+            "500-900": "41%"
+          },
+          "pagina": 108,
+          "img": "page-108.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 35.7K",
+          "volumen_importado": "13.7K kg",
+          "precio_prom_importacion": "USD 1.25/kg",
+          "precio_a_chile_rango": "USD 1.52-1.60/kg",
+          "exp_chile_pais_fob": "USD 44.2K",
+          "volumen_exportado": "29.0K kg",
+          "precio_pagado_a_chile": "USD 1.52/kg",
+          "part_en_exp_chilenas": "0.0%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (100%, 2 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.49",
+              "min": "1.43",
+              "max": "1.54"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.09",
+              "min": "1.09",
+              "max": "1.09"
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "59%",
+            "500-900": "41%"
+          },
+          "pagina": 109,
+          "img": "page-109.webp"
+        }
+      },
+      "slug": "rumania"
+    },
+    "Rusia": {
+      "pais": "Rusia",
+      "continente": "Europa",
+      "region": "Europa del Este",
+      "poblacion": "143.5 M hab.",
+      "pbi": "USD 2173.8B",
+      "pbi_per_capita": "USD 14,889",
+      "cons_pescado_pc": "21.8 kg/año",
+      "cons_pelagicos_pc": "5.4 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 128.8M",
+          "volumen_importado": "77.4M kg",
+          "precio_prom_importacion": "USD 1.61/kg",
+          "precio_a_chile_rango": "USD 0.78-1.35/kg",
+          "exp_chile_pais_fob": "USD 3.7M",
+          "volumen_exportado": "2.7M kg",
+          "precio_pagado_a_chile": "USD 1.35/kg",
+          "part_en_exp_chilenas": "37.2%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "3%",
+          "efectivo_chile": "3%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (100%, 9 env.)",
+          "ntm_anio": "2016",
+          "ntm_registradas": "34",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.35",
+              "min": "1.16",
+              "max": "1.55"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.30",
+              "min": "1.10",
+              "max": "1.42"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.20",
+              "min": "1.15",
+              "max": "1.41"
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "67%",
+            "900+": "28%",
+            "500-900": "5%"
+          },
+          "pagina": 110,
+          "img": "page-110.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 3.3M",
+          "volumen_importado": "1.8M kg",
+          "precio_prom_importacion": "USD 1.83/kg",
+          "precio_a_chile_rango": "USD 0.89-1.28/kg",
+          "exp_chile_pais_fob": "USD 1.6M",
+          "volumen_exportado": "1.3M kg",
+          "precio_pagado_a_chile": "USD 1.28/kg",
+          "part_en_exp_chilenas": "0.4%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "7%",
+          "efectivo_chile": "7%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (100%, 10 env.)",
+          "ntm_anio": "2016",
+          "ntm_registradas": "34",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "400-600g": {
+              "prom": "1.35",
+              "min": "1.16",
+              "max": "1.55"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.30",
+              "min": "1.10",
+              "max": "1.42"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.20",
+              "min": "1.15",
+              "max": "1.41"
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "67%",
+            "900+": "28%",
+            "500-900": "5%"
+          },
+          "pagina": 111,
+          "img": "page-111.webp"
+        }
+      },
+      "slug": "rusia"
+    },
+    "España": {
+      "pais": "España",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "48.8 M hab.",
+      "pbi": "USD 1725.7B",
+      "pbi_per_capita": "USD 35,327",
+      "cons_pescado_pc": "40.4 kg/año",
+      "cons_pelagicos_pc": "12.0 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 6.8M",
+          "volumen_importado": "5.7M kg",
+          "precio_prom_importacion": "USD 0.89/kg",
+          "precio_a_chile_rango": "USD 0.85-1.12/kg",
+          "exp_chile_pais_fob": "USD 58.8K",
+          "volumen_exportado": "57.2K kg",
+          "precio_pagado_a_chile": "USD 1.03/kg5",
+          "part_en_exp_chilenas": "0.6%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Coronel (97% FOB, 1 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.94",
+              "min": "0.86",
+              "max": "1.02"
+            },
+            "400-600g": {
+              "prom": "1.19",
+              "min": "1.02",
+              "max": "1.63"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.00",
+              "min": "0.89",
+              "max": "1.23"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.96",
+              "min": "0.89",
+              "max": "1.09"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "44%",
+            "500-900": "28%",
+            "200-400": "18%",
+            "400-600": "11%"
+          },
+          "pagina": 112,
+          "img": "page-112.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 3.9M",
+          "volumen_importado": "3.5M kg",
+          "precio_prom_importacion": "USD 0.96/kg",
+          "precio_a_chile_rango": "USD 0.84-1.37/kg",
+          "exp_chile_pais_fob": "USD 621.9K",
+          "volumen_exportado": "615.8K kg",
+          "precio_pagado_a_chile": "USD 1.01/kg5",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "+55.6% a.a.",
+          "arancel_mfn": "15%",
+          "efectivo_chile": "0% (TLC UE-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (70% FOB, 14 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "37",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.94",
+              "min": "0.86",
+              "max": "1.02"
+            },
+            "400-600g": {
+              "prom": "1.19",
+              "min": "1.02",
+              "max": "1.63"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "1.00",
+              "min": "0.89",
+              "max": "1.23"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "0.96",
+              "min": "0.89",
+              "max": "1.09"
+            }
+          },
+          "dist_volumen_calibre": {
+            "900+": "44%",
+            "500-900": "28%",
+            "200-400": "18%",
+            "400-600": "11%"
+          },
+          "pagina": 113,
+          "img": "page-113.webp"
+        }
+      },
+      "slug": "espana"
+    },
+    "Ucrania": {
+      "pais": "Ucrania",
+      "continente": "Europa",
+      "region": "Europa del Este",
+      "poblacion": "37.9 M hab.",
+      "pbi": "USD 190.7B",
+      "pbi_per_capita": "USD 5,389",
+      "cons_pescado_pc": "13.4 kg/año",
+      "cons_pelagicos_pc": "6.4 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 110.4M",
+          "volumen_importado": "44.6M kg",
+          "precio_prom_importacion": "USD 1.86/kg",
+          "precio_a_chile_rango": "USD 0.94-1.28/kg",
+          "exp_chile_pais_fob": "USD 673.1K",
+          "volumen_exportado": "524.1K kg",
+          "precio_pagado_a_chile": "USD 1.28/kg",
+          "part_en_exp_chilenas": "6.9%",
+          "cagr_5anios_exp": "+113.8% a.a.",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (81% FOB, 7 env.)",
+          "ntm_anio": "2025",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.17",
+              "min": "1.17",
+              "max": "1.17"
+            },
+            "400-600g": {
+              "prom": "1.45",
+              "min": "1.27",
+              "max": "1.63"
+            },
+            "600-900g": {
+              "prom": "1.79",
+              "min": "1.65",
+              "max": "1.87"
+            },
+            "900g+": {
+              "prom": "1.09",
+              "min": "0.95",
+              "max": "1.45"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.06",
+              "min": "1.06",
+              "max": "1.07"
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "28%",
+            "900+": "14%",
+            "500-900": "7%",
+            "200-400": "7%"
+          },
+          "pagina": 114,
+          "img": "page-114.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 5.3M",
+          "volumen_importado": "2.7M kg",
+          "precio_prom_importacion": "USD 1.81/kg",
+          "precio_a_chile_rango": "USD 1.10-1.64/kg",
+          "exp_chile_pais_fob": "USD 2.1M",
+          "volumen_exportado": "1.3M kg",
+          "precio_pagado_a_chile": "USD 1.64/kg",
+          "part_en_exp_chilenas": "0.5%",
+          "cagr_5anios_exp": "+12.0% a.a.",
+          "arancel_mfn": "5%",
+          "efectivo_chile": "5%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "San Vicente (66% FOB, 17 env.)",
+          "ntm_anio": "2025",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "1.17",
+              "min": "1.17",
+              "max": "1.17"
+            },
+            "400-600g": {
+              "prom": "1.45",
+              "min": "1.27",
+              "max": "1.63"
+            },
+            "600-900g": {
+              "prom": "1.79",
+              "min": "1.65",
+              "max": "1.87"
+            },
+            "900g+": {
+              "prom": "1.09",
+              "min": "0.95",
+              "max": "1.45"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.06",
+              "min": "1.06",
+              "max": "1.07"
+            }
+          },
+          "dist_volumen_calibre": {
+            "400-600": "28%",
+            "900+": "14%",
+            "500-900": "7%",
+            "200-400": "7%"
+          },
+          "pagina": 115,
+          "img": "page-115.webp"
+        }
+      },
+      "slug": "ucrania"
+    },
+    "Reino Unido": {
+      "pais": "Reino Unido",
+      "continente": "Europa",
+      "region": "Europa Occidental",
+      "poblacion": "69.2 M hab.",
+      "pbi": "USD 3686.0B",
+      "pbi_per_capita": "USD 53,246",
+      "cons_pescado_pc": "18.2 kg/año",
+      "cons_pelagicos_pc": "2.9 kg/año",
+      "productos": {
+        "CABALLA": {
+          "imp_total_mundo_cif": "USD 8.2M",
+          "volumen_importado": "4.0M kg",
+          "precio_prom_importacion": "USD 1.85/kg",
+          "precio_a_chile_rango": "USD 1.17-1.21/kg",
+          "exp_chile_pais_fob": "USD 123.0K",
+          "volumen_exportado": "105.0K kg",
+          "precio_pagado_a_chile": "USD 1.17/kg4",
+          "part_en_exp_chilenas": "1.3%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "20%",
+          "efectivo_chile": "0% (UK-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (56% FOB, 2 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.95",
+              "min": "0.86",
+              "max": "1.04"
+            },
+            "400-600g": {
+              "prom": "1.18",
+              "min": "0.99",
+              "max": "1.30"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "0.95",
+              "min": "0.88",
+              "max": "0.99"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.04",
+              "min": "0.89",
+              "max": "1.41"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "63%",
+            "400-600": "18%",
+            "900+": "14%",
+            "200-400": "4%"
+          },
+          "pagina": 116,
+          "img": "page-116.webp"
+        },
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 991.5K",
+          "volumen_importado": "696.6K kg",
+          "precio_prom_importacion": "USD 2.43/kg",
+          "precio_a_chile_rango": "USD 0.84-1.09/kg",
+          "exp_chile_pais_fob": "USD 609.8K",
+          "volumen_exportado": "596.0K kg",
+          "precio_pagado_a_chile": "USD 1.02/kg4",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "+27.7% a.a.",
+          "arancel_mfn": "14%",
+          "efectivo_chile": "0% (UK-Chile)",
+          "trato": null,
+          "puerto_embarque": "San Vicente (100%, 17 env.)",
+          "ntm_anio": "2026",
+          "ntm_registradas": "0",
+          "precios_calibre": {
+            "200-400g": {
+              "prom": "0.95",
+              "min": "0.86",
+              "max": "1.04"
+            },
+            "400-600g": {
+              "prom": "1.18",
+              "min": "0.99",
+              "max": "1.30"
+            },
+            "600-900g": {
+              "prom": "S/D",
+              "min": null,
+              "max": null
+            },
+            "900g+": {
+              "prom": "0.95",
+              "min": "0.88",
+              "max": "0.99"
+            },
+            "Rango amplio (500-900g)": {
+              "prom": "1.04",
+              "min": "0.89",
+              "max": "1.41"
+            }
+          },
+          "dist_volumen_calibre": {
+            "500-900": "63%",
+            "400-600": "18%",
+            "900+": "14%",
+            "200-400": "4%"
+          },
+          "pagina": 117,
+          "img": "page-117.webp"
+        }
+      },
+      "slug": "reino-unido"
+    },
+    "Nueva Zelanda": {
+      "pais": "Nueva Zelanda",
+      "continente": "Oceania",
+      "region": "Oceania",
+      "poblacion": "5.1 M hab.",
+      "pbi": "USD 213.0B",
+      "pbi_per_capita": "USD 41,998",
+      "cons_pescado_pc": "25.6 kg/año",
+      "cons_pelagicos_pc": "5.8 kg/año",
+      "productos": {
+        "JUREL": {
+          "imp_total_mundo_cif": "USD 53.2K",
+          "volumen_importado": "26.0K kg",
+          "precio_prom_importacion": "USD 1.54/kg",
+          "precio_a_chile_rango": "USD 0.79-0.85/kg",
+          "exp_chile_pais_fob": "USD 133.6K",
+          "volumen_exportado": "157.2K kg",
+          "precio_pagado_a_chile": "USD 0.85/kg",
+          "part_en_exp_chilenas": "0.1%",
+          "cagr_5anios_exp": "N/D",
+          "arancel_mfn": "0%",
+          "efectivo_chile": "0%",
+          "trato": "Trato MFN (sin preferencia)",
+          "puerto_embarque": "Sin datos 2025",
+          "ntm_anio": "2016",
+          "ntm_registradas": "19",
+          "precios_calibre": {},
+          "dist_volumen_calibre": {},
+          "pagina": 120,
+          "img": "page-120.webp"
+        }
+      },
+      "slug": "nueva-zelanda"
+    }
+  }
+}
