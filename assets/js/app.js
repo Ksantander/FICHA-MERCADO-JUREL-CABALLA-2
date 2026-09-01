@@ -199,7 +199,7 @@
   // =====================================================================
   // VIEW: PANORAMA MUNDIAL
   // =====================================================================
-  function viewPanorama(){
+  function viewPanorama(prod){
     const pm = DATA.panorama_mundial;
     $main.innerHTML = `
       ${breadcrumb([["Inicio","#/inicio"],["Panorama mundial", null]])}
@@ -209,17 +209,30 @@
             <h2>Panorama mundial</h2>
             <span class="meta">Mercado global · Periodo ${esc(DATA.meta.periodo)}</span>
           </div>
-          ${panoramaProduct("Jurel congelado", "HS 030355", pm.jurel)}
-          ${panoramaProduct("Caballa congelada", "HS 030354", pm.caballa)}
+          ${panoramaProduct("jurel", "Jurel congelado", "HS 030355", pm.jurel)}
+          ${panoramaProduct("caballa", "Caballa congelada", "HS 030354", pm.caballa)}
         </div>
       </section>
     `;
     wireZoom($main);
+    if (prod){
+      const target = document.getElementById('panorama-' + prod);
+      if (target){
+        const doScroll = () => target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        doScroll();
+        // Las imágenes cargan después del render y desplazan el contenido;
+        // una vez que terminan de cargar, corregimos la posición del scroll.
+        const imgs = Array.from($main.querySelectorAll('img'));
+        Promise.all(imgs.map(im => im.complete ? Promise.resolve() :
+          new Promise(res => { im.addEventListener('load', res, { once:true }); im.addEventListener('error', res, { once:true }); })
+        )).then(() => requestAnimationFrame(doScroll));
+      }
+    }
   }
 
-  function panoramaProduct(name, hs, p){
+  function panoramaProduct(key, name, hs, p){
     return `
-      <div style="margin-bottom:46px">
+      <div id="panorama-${key}" style="margin-bottom:46px;scroll-margin-top:100px">
         <h3 style="font-family:var(--font-display);font-size:22px;border-bottom:2px solid var(--gold);display:inline-block;padding-bottom:4px;margin-bottom:18px">
           ${esc(name)} <span class="mono" style="font-size:12px;color:var(--ink-soft)">(${esc(hs)})</span>
         </h3>
@@ -616,6 +629,7 @@
 
   // ---------- Register routes ----------
   route(/^\/inicio\/?$/, viewInicio);
+  route(/^\/panorama\/(jurel|caballa)\/?$/, viewPanorama);
   route(/^\/panorama\/?$/, viewPanorama);
   route(/^\/continentes\/?$/, viewContinentes);
   route(/^\/continente\/([^/]+)\/?$/, viewContinenteDetail);
